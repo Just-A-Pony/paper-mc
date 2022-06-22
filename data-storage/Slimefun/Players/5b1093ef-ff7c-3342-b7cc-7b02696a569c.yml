@@ -90,6 +90,7 @@ researches:
   '155': true
   '8': true
   '151': true
+  '29841': true
 backpacks:
   '0':
     size: 36
@@ -201,7 +202,7 @@ backpacks:
           ==: ItemMeta
           meta-type: MAP
           display-name: '{"translate":"filled_map.buried_treasure"}'
-          internal: H4sIAAAAAAAA/+NiYOBk4HZJTc4vSizJzM8r5mJgYGBkZGApqSxIlWJjYKw40GfBAAIcDEyZKQyM2kCxKocFRmAxNgbmovwSh7QGBggAAA8Hr8VOAAAA
+          internal: H4sIAAAAAAAA/+NiYOBk4HZJTc4vSizJzM8r5mJgYGBkZGApqSxIlWJjYC7KL3FIa2AAAQ4GpswUBkZtNgbGKocFRmAxILviQJ8FAwQAAI3y81BOAAAA
           map-id: 1
       '18':
         ==: org.bukkit.inventory.ItemStack
