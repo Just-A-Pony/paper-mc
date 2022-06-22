@@ -3,3 +3,29 @@
 [11:09:12] [User Authenticator #36/INFO]: UUID of player AndrewTR is 268b0239-a8bc-38cb-8e64-562aebc74440
 [11:09:12] [Server thread/INFO]: AndrewTR joined the game
 [11:09:12] [Server thread/INFO]: AndrewTR[/127.0.0.1:42914] logged in with entity id 75537 at ([SlimeWorld]-273.79368539831614, 72.0, 2077.38111394372)
+[11:17:27] [Server thread/INFO]: AndrewTR lost connection: Disconnected
+[11:17:28] [Server thread/INFO]: AndrewTR left the game
+[11:18:51] [Craft Scheduler Thread - 3382/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[11:18:51] [Craft Scheduler Thread - 3382/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (2 change(s) queued)
+[11:22:07] [User Authenticator #37/INFO]: UUID of player 114514 is 6c03ec95-36b9-385c-b358-28d2fe101bc8
+[11:22:07] [Server thread/INFO]: 114514 joined the game
+[11:22:07] [Server thread/INFO]: 114514[/127.0.0.1:36942] logged in with entity id 76580 at ([SlimeWorld]-644.5373638111754, 65.0, 2038.0248760308923)
+[11:26:51] [Server thread/INFO]: 114514 lost connection: Disconnected
+[11:26:51] [Server thread/INFO]: 114514 left the game
+[11:28:44] [User Authenticator #38/INFO]: UUID of player 114514 is 6c03ec95-36b9-385c-b358-28d2fe101bc8
+[11:28:44] [Server thread/INFO]: 114514 joined the game
+[11:28:44] [Server thread/INFO]: 114514[/127.0.0.1:36156] logged in with entity id 77155 at ([SlimeWorld]-735.3142491198946, 68.0, 2066.4090528629104)
+[11:28:51] [Craft Scheduler Thread - 3400/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[11:28:51] [Craft Scheduler Thread - 3400/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (3 change(s) queued)
+[11:32:25] [User Authenticator #39/INFO]: UUID of player NokiaX3979 is 94985268-409c-3344-bdea-b02892fb0325
+[11:32:25] [Server thread/INFO]: NokiaX3979 joined the game
+[11:32:25] [Server thread/INFO]: NokiaX3979[/127.0.0.1:54166] logged in with entity id 77738 at ([SlimeWorld]-262.5901369176771, 65.0, 2109.2509460520446)
+[11:32:33] [Server thread/WARN]: Boat (vehicle of 114514) moved wrongly! 0.39728526758295457
+[11:32:35] [Server thread/INFO]: NokiaX3979 lost connection: Disconnected
+[11:32:35] [Server thread/INFO]: NokiaX3979 left the game
+[11:45:48] [Server thread/INFO]: 114514 fell from a high place
+[11:48:50] [User Authenticator #40/INFO]: UUID of player NokiaX3979 is 94985268-409c-3344-bdea-b02892fb0325
+[11:48:50] [Server thread/INFO]: NokiaX3979 joined the game
+[11:48:50] [Server thread/INFO]: NokiaX3979[/127.0.0.1:43040] logged in with entity id 80309 at ([SlimeWorld]-262.5901369176771, 65.0, 2109.2509460520446)
+[11:57:36] [Async Chat Thread - #44/INFO]: <NokiaX3979> sleep
+[12:03:27] [Server thread/INFO]: 114514 was blown up by Creeper
