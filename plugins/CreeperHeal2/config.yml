@@ -1,0 +1,53 @@
+# CreeperHeal2
+
+# Delay before a hole is fixed in seconds
+initial-delay: 0
+
+# Delay between individual block replacements in ticks
+# Zero makes it replace everything at once
+between-blocks-delay: 0
+
+# Types of explosions to handle
+types:
+  creeper: true
+  tnt: false
+  ghast: false
+  wither: false
+  minecart-tnt: false
+  ender-crystal: false
+  bed: false
+
+# Turbo Mode
+# Turbo Mode can help repair larger explosions faster.
+# The minimum number of blocks an explosion should involve before turbo mode is activated
+# 0 disables turbo
+turbo-threshold: 0
+
+# Turbo type lets you determine if turbo replaces at a constant
+# amount or a percentage of the remaining total
+# 0 - constant amount
+# 1 - percentage
+turbo-type: 0
+
+# Constant Amount Turbo Settings
+# The number of blocks to replace in each replacement cycle (For reference, non-turbo is 1)
+# Raising this will slightly increase visible lag. Recommended <20
+turbo-amount: 3
+
+# Percentage Turbo Settings
+# Percentage of blocks to replace each cycle (1-100). Recommended <20
+turbo-percentage: 1
+
+# Highest amount of blocks allowed to be replaced in one cycle
+# Important to set if you increase turbo-percentage to prevent massive
+# lag-spiking replacement cycles. Recommended <20
+turbo-cap: 10
+
+# Allow the chaining of TNT explosions rather than just saving the TNT block
+explode-tnt: true
+
+# Enable stats/usage data collection
+bstats: true
+
+# Enable debug mode
+debug: false

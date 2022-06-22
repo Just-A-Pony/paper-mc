@@ -1,0 +1,574 @@
+researches:
+  '105': true
+  '54': true
+  '125': true
+  '35': true
+  '18': true
+  '255': true
+  '106': true
+  '108': true
+  '242': true
+  '86': true
+  '1': true
+  '4': true
+  '149': true
+  '2': true
+  '199': true
+  '143': true
+  '240': true
+  '50': true
+  '134': true
+  '133': true
+  '132': true
+  '129': true
+  '98': true
+  '95': true
+  '99': true
+  '53': true
+  '107': true
+  '239': true
+  '30': true
+  '6': true
+  '92': true
+  '135': true
+  '38': true
+  '102': true
+  '42': true
+  '138': true
+  '136': true
+  '58': true
+  '177': true
+  '186': true
+  '189': true
+  '178': true
+  '181': true
+  '187': true
+  '184': true
+  '278': true
+  '183': true
+  '247': true
+  '164': true
+  '16': true
+  '17': true
+  '21': true
+  '23': true
+  '235': true
+  '160': true
+  '202': true
+  '163': true
+  '162': true
+  '152': true
+  '150': true
+  '146': true
+  '137': true
+  '241': true
+  '116': true
+  '260': true
+  '28': true
+  '20': true
+  '276': true
+  '600': true
+  '41': true
+  '73': true
+  '72': true
+  '55': true
+  '215': true
+  '34': true
+  '37': true
+  '47': true
+  '48': true
+  '190': true
+  '45': true
+  '19': true
+  '36': true
+  '9': true
+  '229': true
+  '228': true
+  '145': true
+  '51': true
+  '29': true
+  '155': true
+  '8': true
+  '151': true
+backpacks:
+  '0':
+    size: 36
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: ARROW
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: ARROW
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: ARROW
+        amount: 64
+  '1':
+    size: 36
+    contents:
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: SAND
+        amount: 64
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: SAND
+        amount: 3
+  '2':
+    size: 36
+    contents:
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: QUARTZ
+        amount: 16
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: ENDER_PEARL
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PAPER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"布"}],"text":""}'
+          custom-model-data: 2200222
+          PublicBukkitValues:
+            slimefun:slimefun_item: CLOTH
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: LEATHER
+        amount: 30
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: NETHER_BRICK
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: FIRE_CHARGE
+        amount: 27
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PAPER
+        amount: 5
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: SUSPICIOUS_STEW
+        meta:
+          ==: ItemMeta
+          meta-type: SUSPICIOUS_STEW
+          effects:
+          - ==: PotionEffect
+            effect: 16
+            duration: 160
+            amplifier: 0
+            ambient: true
+            has-particles: true
+            has-icon: true
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: SPRUCE_PLANKS
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: BONE
+        amount: 5
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PRISMARINE_CRYSTALS
+        amount: 2
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: FILLED_MAP
+        meta:
+          ==: ItemMeta
+          meta-type: MAP
+          display-name: '{"translate":"filled_map.buried_treasure"}'
+          internal: H4sIAAAAAAAA/+NiYOBk4HZJTc4vSizJzM8r5mJgYGBkZGApqSxIlWJjYKw40GfBAAIcDEyZKQyM2kCxKocFRmAxNgbmovwSh7QGBggAAA8Hr8VOAAAA
+          map-id: 1
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: DARK_OAK_PLANKS
+  '3':
+    size: 36
+    contents:
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: DISPENSER
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: NETHER_BRICK_FENCE
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: NETHER_BRICKS
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: NETHER_BRICKS
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 84
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: SAND
+        amount: 10
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OBSIDIAN
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OBSERVER
+        amount: 4
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: BIRCH_SAPLING
+        amount: 24
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: TIPPED_ARROW
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          custom-effects:
+          - ==: PotionEffect
+            effect: 25
+            duration: 110
+            amplifier: 2
+            ambient: false
+            has-particles: true
+            has-icon: true
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: FIRE_CHARGE
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: RED_BED
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: COBBLESTONE
+        amount: 43
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            PIERCING: 3
+            QUICK_CHARGE: 1
+            DURABILITY: 3
+          charged: false
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: NETHER_BRICK
+        amount: 2
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Poisoned
+            Arrows III"}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"▸
+            40% chance to launch an arrow with Poison III (5s.)"}],"text":""}'
+          enchants:
+            PIERCING: 3
+            POISONED_ARROWS: 3
+          PublicBukkitValues:
+            nexengine:fogus_loren-poisoned_arrows: §fPoisoned Arrows III
+            nexengine:fogus_loren-poisoned_arrows_info: §8▸ 40% chance to launch an
+              arrow with Poison III (5s.)
+          charged: false
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: DIRT
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: LANTERN
+        amount: 2
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: WATER_BUCKET
+  '4':
+    size: 36
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"茄子植物"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: AUBERGINE_BUSH
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"地瓜植物"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: SWEET_POTATO_BUSH
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"无花果植物"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: FIG_BUSH
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"地瓜"}],"text":""}'
+          internal: H4sIAAAAAAAA/02PTU6DQBhAP001FV17BHcmtAimMS4MVAopX5WWv0lctHQqAzNtQ6EWDuHSC5i4Nh7HeAFP4MKNLF2+vLd5EoAEJ+Os5PwuXy0Yp21o4VRQkPTxub7K6ZDNJJAauaZ5wejmCNoF3RVlTjcSAOy14cCf8pLCO61smYSJPA9tHleW1vBkLPORla4vraVfzXRLs0TjBzfasOr9a9ViGqg8UuyELO/LmfDloeJyOnA7sfC2TpcINB47WCcM0+gCTW+Hdaai4SZResuiOu4Q4adY+2JkkgwnWUVMwtDwuiQlGQkiBVNPwbr/5AT9LjK7twjla4Bj2LfmzUTr9Ovt+/Ds6vP598N5eP15AfgDIYM2qRkBAAA=
+          PublicBukkitValues:
+            slimefun:slimefun_item: SWEET_POTATO
+          skull-owner: CS-CoreLib
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"豌豆射手"}],"text":""}'
+          internal: H4sIAAAAAAAA/02PMU+DQBhAP01NEB38IyYUBFOTDk0xFMIdUqD02Aq9Wo6jbSi0Xlf/iKNxdnB1dnMz8Se4usvo+PLe8mQAGc6DouH8rlovck4l6OBZSUEeBpfDdUXdPJVBbuWGVnVOt6cg1fShbiq6lQHgSIKTyYw3FF6pcJRkulTmU4dnwjZaDgOFezbbXNuriUiHtmGXrR8NDFf0/rV6PYt1TjRnmaz8Ji0niquNOR2Nu1kZ7RLLYaTEpRcigVihIrPYkxipnjkvCPP3+DBmJOQcW0j3wvs9UaNuEvsCxZGOWaRic3DA8a2WsEgkFmaYZVckd3qLqdIHOINje96OdF6+fh4/+zdPb4ffi+eP92+AP6YOsqwdAQAA
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEASHOOTER
+          skull-owner: CS-CoreLib
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"菠萝植物"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: PINEAPPLE_BUSH
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"榴莲植物"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: DURIAN_BUSH
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"猕猴桃植物"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: KIWI_BUSH
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"light_purple","text":"火龙果树苗"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: DRAGON_FRUIT_SAPLING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"葱"}],"text":""}'
+          internal: H4sIAAAAAAAA/02PQU6DQBRAv6YmiLownsNkKAFTky4aUDqEGSylyLBr6TQFZtqGQi3s3Ln0Hm5ceAAv4RG8hyxdvry3eSqACpfTohbiqdyuMsEV6NG55KBa01trW3IvW6igdnLHyyrj+3NQKn6s6pLvVQA4UeAsmouawxdvXJTEa7SMXZE22Ow4nCLh43x3hzdRs7CwiWXnxyPTawb/WqOaPxuC6e462UzqhYyQpweCjwMtlbMDa90isWeItLRgeSATJxBMEsTCVCch69OWaDQvDGqPXlgfH31n0rVMJ/IxI+1DS/Jk7dtUEgfrrMWabyc5a9zBKkZDgAs4xctupPcz/H3/vL5//ajf2M3VtwT4A9tQQPIdAQAA
+          PublicBukkitValues:
+            slimefun:slimefun_item: LEEK
+          skull-owner: CS-CoreLib
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"树菇植物"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: TREE_MUSHROOM_BUSH
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"接骨木果灌木丛"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: ELDERBERRY_BUSH
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"橙子树苗"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: ORANGE_SAPLING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"橙子"}],"text":""}'
+          internal: H4sIAAAAAAAA/02PzU6DQBRGr6YmiF269RFMoAimmiYawHRIucqPUHAF7TQdGNqGQtNpXJi4MPFpfBKfwIcRd+6+k3M2nwwgQz8oW86f6vWCcSpBD7OKgmwGl+a6phOWyyB3ckPrhtHtKUgN3TdtTbcyABxJcBJlvKXwRYWjpNOlMp86fCaI0XEYKPyRFJtrsopEbhKDVJ0f3xsTMfzX6k0W6zzRnGW68tq8ipSJ5nM69tVZ9bzDImJu7DMMPS21HhgeShUrT8HQ3icxFklhq+4BuVvYGoZpiQNkycG9SmMyQMtVMbYFFn/bFl0jyEodLrzRCOAMjsm8O9E7v3i1Pvs3H+/698/t290LwC+Cv57IGQEAAA==
+          PublicBukkitValues:
+            slimefun:slimefun_item: ORANGE
+          skull-owner: CS-CoreLib
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: SEAGRASS
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: WHEAT_SEEDS
+        amount: 2
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"无花果"}],"text":""}'
+          internal: H4sIAAAAAAAA/02Py06DQBhGf01NKLr0NUyG0mKqcdGCaYfAoNxhB3SQy9A2FKywN3Fr4qP4KD6CS99BWbr7Ts7ZfDwADxdW2TL2UO/SnFEORiSqKPCydSXvaqrlMQ/8IPe0bnJ6GAPX0JemremBB4ATDs7ciLUUPmmnotDP0MZXWdJhaWDbQszAxf4ab90ulrGEq8GvF5LWzf+1sybyZiwQ1SzcPrZx5SJNNBldm0JSOc+Gvcx1xenJRD8G/ZIZStkZKzUfeEq8e6QXLgsmjkj6BBm2WRJ7MQ1tRwhXjmB4wbCziihBF3puEVT6kfRPPbHUeeqjO4BzOMWb4cjoNv/+/bmZpB/v5uv47fIL4A98J3blHQEAAA==
+          PublicBukkitValues:
+            slimefun:slimefun_item: FIG
+          skull-owner: CS-CoreLib
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: MELON_SLICE
+        amount: 5
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: WHEAT
+        amount: 21
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PUFFERFISH
+        amount: 12
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: COD
+        amount: 55
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: TROPICAL_FISH
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: SALMON
+        amount: 33
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: FLINT
+        amount: 5
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: BLACKSTONE
+        amount: 18
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: QUARTZ
+        amount: 3
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_SWORD
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: FIRE_CHARGE
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DAMAGE_ARTHROPODS: 4
+            PROTECTION_FIRE: 3
+            MENDING: 1
+            OXYGEN: 3

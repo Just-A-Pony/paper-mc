@@ -1,0 +1,52 @@
+EnchantmentTarget:
+  ALL: All
+  ARMOR: Armor
+  ARMOR_FEET: Armor Feet
+  ARMOR_LEGS: Armor Legs
+  ARMOR_TORSO: Armor Torso
+  ARMOR_HEAD: Armor Head
+  WEAPON: Weapon
+  TOOL: Tool
+  BOW: Bow
+  FISHING_ROD: Fishing Rod
+  BREAKABLE: Breakable
+  WEARABLE: Wearable
+  TRIDENT: Trident
+  CROSSBOW: Crossbow
+  VANISHABLE: Vanishable
+FitItemType:
+  HELMET: Helmet
+  CHESTPLATE: Chestplate
+  LEGGINGS: Leggings
+  BOOTS: Boots
+  ELYTRA: Elytra
+  WEAPON: Weapon
+  TOOL: Tool
+  ARMOR: Armor
+  SWORD: Sword
+  TRIDENT: Trident
+  AXE: Axe
+  BOW: Bow
+  CROSSBOW: Crossbow
+  HOE: Hoe
+  PICKAXE: Pickaxe
+  SHOVEL: Shovel
+  FISHING_ROD: Fishing Rod
+Command:
+  List:
+    Desc: List of all custom enchantments.
+  Enchant:
+    Usage: <enchant> <level>
+    Desc: Enchants the item in your hand.
+    Done: '&aSuccessfully enchanted!'
+  Book:
+    Usage: <player> <enchant> <level>
+    Desc: Gives custom enchanted book.
+    Done: Given &6%enchant%&7 enchanted book to &6%player%&7.
+  TierBook:
+    Usage: <player> <tier> <level>
+    Desc: Gives an enchanted book.
+    Error: '&cInvalid tier!'
+    Done: Given &6%tier%&7 enchanted book to &6%player%&7.
+Error:
+  NoEnchant: '&cNo such enchant.'

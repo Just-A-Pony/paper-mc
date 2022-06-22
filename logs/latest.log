@@ -1,0 +1,5 @@
+[09:14:12] [Craft Scheduler Thread - 3130/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
+ If this message is repeated a lot, please see http://skinsrestorer.net/firewall[0;39m
+[11:09:12] [User Authenticator #36/INFO]: UUID of player AndrewTR is 268b0239-a8bc-38cb-8e64-562aebc74440
+[11:09:12] [Server thread/INFO]: AndrewTR joined the game
+[11:09:12] [Server thread/INFO]: AndrewTR[/127.0.0.1:42914] logged in with entity id 75537 at ([SlimeWorld]-273.79368539831614, 72.0, 2077.38111394372)

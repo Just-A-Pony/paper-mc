@@ -1,0 +1,18 @@
+slimefun:
+  oil:
+    enabled: true
+  nether_ice:
+    enabled: true
+  uranium:
+    enabled: true
+  salt:
+    enabled: true
+simplestorage:
+  angelite_crystal:
+    enabled: true
+  proustite_crystal:
+    enabled: true
+  shortite_crystal:
+    enabled: true
+  quartz_crystal:
+    enabled: true

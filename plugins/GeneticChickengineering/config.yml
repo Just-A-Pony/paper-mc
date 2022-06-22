@@ -1,0 +1,21 @@
+options:
+  auto-update: true
+  display-resource-in-name: true
+  max-mutation: 2
+  mutation-rate: 50
+  resource-fail-rate: 0
+  resource-base-time: 14
+  enable-pain: false
+  pain-chance: 2
+  pain-kills: false
+  heal-rate: 2
+  allow-nether-water: false
+commands:
+  enabled: true
+  subcommands:
+    makechicken:
+      enabled: true
+      permission: geneticchickengineering.command.makechicken
+    calculatechance:
+      enabled: true
+      permission: geneticchickengineering.command.calculatechance

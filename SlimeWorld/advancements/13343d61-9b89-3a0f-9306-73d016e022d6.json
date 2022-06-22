@@ -1,0 +1,50 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-06-09 16:15:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-09 16:15:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-09 16:15:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-06-09 16:15:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-06-09 16:15:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-06-09 16:15:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2022-06-09 16:14:48 +0800",
+      "minecraft:forest": "2022-06-09 16:12:42 +0800",
+      "minecraft:beach": "2022-06-09 16:13:01 +0800",
+      "minecraft:river": "2022-06-09 16:15:25 +0800",
+      "minecraft:savanna": "2022-06-09 16:15:19 +0800",
+      "minecraft:plains": "2022-06-09 16:13:59 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

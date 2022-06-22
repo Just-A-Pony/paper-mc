@@ -1,0 +1,8 @@
+ExoticGarden vBuild 10 zh-CN(ybw0014) (git 4a9d091)
+floodgate v2.2.0-SNAPSHOT (b66-5d5713e)
+GeneticChickengineering vBuild 2 zh-CN(CrispyXYZ) (git dfd4b14)
+Geyser-Spigot v2.0.4-SNAPSHOT
+PlugManX v2.3.0
+SimpleStorage vBuild 5 zh-CN(ybw0014) (git c443c7b)
+Slimefun v2022.05-release
+ViaVersion v4.3.1
