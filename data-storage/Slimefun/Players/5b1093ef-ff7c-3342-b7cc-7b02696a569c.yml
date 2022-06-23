@@ -91,6 +91,34 @@ researches:
   '8': true
   '151': true
   '29841': true
+  '269': true
+  '167': true
+  '169': true
+  '266': true
+  '168': true
+  '185': true
+  '188': true
+  '250': true
+  '170': true
+  '220': true
+  '207': true
+  '208': true
+  '209': true
+  '230': true
+  '231': true
+  '171': true
+  '172': true
+  '173': true
+  '227': true
+  '275': true
+  '243': true
+  '258': true
+  '205': true
+  '206': true
+  '217': true
+  '212': true
+  '216': true
+  '273': true
 backpacks:
   '0':
     size: 36
@@ -108,8 +136,432 @@ backpacks:
       '2':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
-        type: ARROW
-        amount: 64
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"3.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,1,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":3.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"4.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":4.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"3.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,1,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":3.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[{"uuid":"463cf2af-a9f2-4483-a35d-14c088df0380","name":"Random
+              spawn bonus","operation":1,"amount":-0.007899720771564018}]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"2.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,1,1,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":2.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[{"uuid":"9e68a7a6-e36f-499b-8eb6-3a1ee26c4944","name":"Random
+              spawn bonus","operation":1,"amount":-0.07262640806156719}]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"1.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,1,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":1.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"1.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":1.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[{"uuid":"f1317d2e-c0fa-4087-a406-80189c059756","name":"Random
+              spawn bonus","operation":1,"amount":-0.05858986269777733}]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"4.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,1,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":4.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"3.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,3,3,1,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":3.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"1.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":1.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"4.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;1,3,3,3,1,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":4.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[{"uuid":"b94e7ae0-a7dd-4676-b47b-0c35f63ba960","name":"Random
+              spawn bonus","operation":1,"amount":-0.018874305154701666}]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"1.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,3,1,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":1.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[{"uuid":"491293ad-ff2e-4782-9ea1-6c05c8e8038e","name":"Random
+              spawn bonus","operation":1,"amount":-0.03340737936907965}]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"3.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;1,3,3,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":3.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"2.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,1,1,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":2.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"4.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,3,1,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":4.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"4.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,1,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":4.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[{"uuid":"1db1dc8e-fb0c-42c4-bf12-d8d6e09d27f6","name":"Random
+              spawn bonus","operation":1,"amount":0.03491652037376065}]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"1.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,1,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":1.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[{"uuid":"fa337a1d-c249-443f-8849-eda2da519459","name":"Random
+              spawn bonus","operation":1,"amount":-0.12021270892047689}]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"4.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,1,1,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":4.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"3.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":3.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"4.0"}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"幼崽:
+            "},{"italic":false,"color":"white","text":"true"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,1,3,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":4.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[{"uuid":"3f24c66d-5fbb-4010-963e-cda09258c0c3","name":"Random
+              spawn bonus","operation":1,"amount":-0.01687046970345926}]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":true,"_age":-23943,"_ageLock":false,"_breedable":false,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"1.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;1,3,3,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":1.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[{"uuid":"0d451d0a-2955-45a2-8c3c-ac33a99c8fe1","name":"Random
+              spawn bonus","operation":1,"amount":0.12253297964380393}]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"3.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,3,1,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":3.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"1.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;1,1,3,3,3,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":1.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[{"uuid":"d96921ae-7aa2-47f7-886e-27559a2b7fd4","name":"Random
+              spawn bonus","operation":1,"amount":0.03425264209386049}]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"italic":false,"color":"aqua","text":"装有鸡的袋子"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"血量:
+            "},{"italic":false,"color":"green","text":"1.0"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PQU7CQBiG4R+DBkfX3sCYmJBMJUBYsDClyjTt1NLS0klctDCE0plCSit0DuMN3Llx7QW8gVexS5dfnm/zIgAE115WCfFS7Nap4B1o01hyQLrX1XcFt9IEAWpwz4sy5YdL6JT8VFYFPyAAaHXgPIhFxeGT1yZmiw1eLUyxrMmg2b6HhUO2+yHJgzrRyYDIxqePA6se/fv2yzjsi6hnbljuVokMsNWbCT6daUs5f7P9SDkT98EJDc3xxZaFgaSKHKmaK6qio60Idp6NfhSSkx0ySf3sxKTb2CZloYGpsrVoa2MqjR6TT8KZZIrk2mjtjscAV3BGVk1I+/72d/7+Nbz4aL3e/WQ33wB/0+mMXh0BAAA=
+          PublicBukkitValues:
+            geneticchickengineering:gce_pocket_chicken_dna: '[I;3,3,3,3,1,3,0]'
+            geneticchickengineering:gce_pocket_chicken_adapter: '{"_type":"CHICKEN","_health":1.0,"_absorption":0.0,"_removeWhenFarAway":false,"_customName":null,"_customNameVisible":false,"_ai":true,"_silent":false,"_glowing":false,"_invulnerable":false,"_collidable":true,"_gravity":true,"_fireTicks":-1,"_attributes":{"GENERIC_MAX_HEALTH":{"base":4.0,"modifiers":[]},"GENERIC_FOLLOW_RANGE":{"base":16.0,"modifiers":[]},"GENERIC_KNOCKBACK_RESISTANCE":{"base":0.0,"modifiers":[]},"GENERIC_MOVEMENT_SPEED":{"base":0.25,"modifiers":[]},"GENERIC_ATTACK_KNOCKBACK":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR":{"base":0.0,"modifiers":[]},"GENERIC_ARMOR_TOUGHNESS":{"base":0.0,"modifiers":[]}},"_effects":{},"_scoreboardTags":[],"baby":false,"_age":0,"_ageLock":false,"_breedable":true,"_loveModeTicks":0}'
+            slimefun:slimefun_item: GCE_POCKET_CHICKEN
+          skull-owner: CS-CoreLib
   '1':
     size: 36
     contents:
@@ -125,89 +577,7 @@ backpacks:
         amount: 3
   '2':
     size: 36
-    contents:
-      '3':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: QUARTZ
-        amount: 16
-      '6':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: ENDER_PEARL
-      '7':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: PAPER
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"布"}],"text":""}'
-          custom-model-data: 2200222
-          PublicBukkitValues:
-            slimefun:slimefun_item: CLOTH
-      '17':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: LEATHER
-        amount: 30
-      '24':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: NETHER_BRICK
-      '31':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: FIRE_CHARGE
-        amount: 27
-      '2':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: PAPER
-        amount: 5
-      '12':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: SUSPICIOUS_STEW
-        meta:
-          ==: ItemMeta
-          meta-type: SUSPICIOUS_STEW
-          effects:
-          - ==: PotionEffect
-            effect: 16
-            duration: 160
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '14':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: SPRUCE_PLANKS
-      '23':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: BONE
-        amount: 5
-      '29':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: PRISMARINE_CRYSTALS
-        amount: 2
-      '8':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: FILLED_MAP
-        meta:
-          ==: ItemMeta
-          meta-type: MAP
-          display-name: '{"translate":"filled_map.buried_treasure"}'
-          internal: H4sIAAAAAAAA/+NiYOBk4HZJTc4vSizJzM8r5mJgYGBkZGApqSxIlWJjYC7KL3FIa2AAAQ4GpswUBkZtNgbGKocFRmAxILviQJ8FAwQAAI3y81BOAAAA
-          map-id: 1
-      '18':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: DARK_OAK_PLANKS
+    contents: {}
   '3':
     size: 36
     contents:
@@ -284,43 +654,11 @@ backpacks:
         v: 2586
         type: COBBLESTONE
         amount: 43
-      '7':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: CROSSBOW
-        meta:
-          ==: ItemMeta
-          meta-type: CROSSBOW
-          enchants:
-            PIERCING: 3
-            QUICK_CHARGE: 1
-            DURABILITY: 3
-          charged: false
       '8':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
         type: NETHER_BRICK
         amount: 2
-      '9':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: CROSSBOW
-        meta:
-          ==: ItemMeta
-          meta-type: CROSSBOW
-          lore:
-          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Poisoned
-            Arrows III"}],"text":""}'
-          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"▸
-            40% chance to launch an arrow with Poison III (5s.)"}],"text":""}'
-          enchants:
-            PIERCING: 3
-            POISONED_ARROWS: 3
-          PublicBukkitValues:
-            nexengine:fogus_loren-poisoned_arrows: §fPoisoned Arrows III
-            nexengine:fogus_loren-poisoned_arrows_info: §8▸ 40% chance to launch an
-              arrow with Poison III (5s.)
-          charged: false
       '10':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
@@ -330,10 +668,6 @@ backpacks:
         v: 2586
         type: LANTERN
         amount: 2
-      '12':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: WATER_BUCKET
   '4':
     size: 36
     contents:
