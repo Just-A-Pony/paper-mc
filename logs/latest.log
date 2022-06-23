@@ -440,3 +440,7 @@
 [20:08:04] [User Authenticator #95/INFO]: UUID of player NokiaX3979 is 94985268-409c-3344-bdea-b02892fb0325
 [20:08:04] [Server thread/INFO]: NokiaX3979 joined the game
 [20:08:04] [Server thread/INFO]: NokiaX3979[/127.0.0.1:57110] logged in with entity id 208209 at ([SlimeWorld]-725.7842468470864, 70.0, 2054.6777247758246)
+[20:08:24] [Server thread/INFO]: NokiaX3979 lost connection: Disconnected
+[20:08:24] [Server thread/INFO]: NokiaX3979 left the game
+[20:11:17] [Server thread/INFO]: Saving the game (this may take a moment!)
+[20:11:17] [Server thread/INFO]: Saved the game
