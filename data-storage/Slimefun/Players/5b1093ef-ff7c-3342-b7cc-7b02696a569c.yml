@@ -123,16 +123,6 @@ backpacks:
   '0':
     size: 36
     contents:
-      '0':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: ARROW
-        amount: 64
-      '1':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: ARROW
-        amount: 64
       '2':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
