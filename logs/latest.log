@@ -1,12 +1,198 @@
-[14:39:57] [Craft Scheduler Thread - 108/WARN]: [Slimefun] Attempted to refresh skin cache, got this response: TimeoutException: null
-[14:39:57] [Craft Scheduler Thread - 108/WARN]: [Slimefun] This usually means mojang.com is temporarily down or started to rate-limit this connection, nothing to worry about!
-[19:33:54] [User Authenticator #4/INFO]: UUID of player jiangCHY4122 is 96f9fc63-25d8-3456-a1d1-ceda1bcd1beb
-[19:33:55] [Server thread/INFO]: jiangCHY4122 joined the game
-[19:33:55] [Server thread/INFO]: jiangCHY4122[/127.0.0.1:55386] logged in with entity id 10812 at ([SlimeWorld]-588.5588279590104, 62.0, 2075.3654845985184)
-[20:02:06] [Server thread/INFO]: jiangCHY4122 lost connection: Disconnected
-[20:02:06] [Server thread/INFO]: jiangCHY4122 left the game
-[21:08:58] [User Authenticator #5/INFO]: UUID of player OKHI233 is 21400353-76c8-3eb7-afff-5b9f78799d8c
-[21:08:59] [Server thread/INFO]: OKHI233 joined the game
-[21:08:59] [Server thread/INFO]: OKHI233[/[240e:3a1:56f3:9291:6d3e:51d3:4541:fd6d%0]:53791] logged in with entity id 14619 at ([SlimeWorld]-1461.0907535499969, 85.0, 2060.1683628921724)
-[21:09:23] [Server thread/INFO]: OKHI233 lost connection: Disconnected
-[21:09:23] [Server thread/INFO]: OKHI233 left the game
+[10:19:38] [User Authenticator #7/INFO]: UUID of player jiangCHY4122 is 96f9fc63-25d8-3456-a1d1-ceda1bcd1beb
+[10:19:38] [Server thread/INFO]: jiangCHY4122 joined the game
+[10:19:38] [Server thread/INFO]: jiangCHY4122[/127.0.0.1:36258] logged in with entity id 21064 at ([SlimeWorld]-714.7624999880791, 70.0, 2045.3436668104978)
+[10:23:11] [Server thread/INFO]: jiangCHY4122 tried to swim in lava
+[10:25:04] [Server thread/INFO]: jiangCHY4122 lost connection: Disconnected
+[10:25:04] [Server thread/INFO]: jiangCHY4122 left the game
+[11:25:39] [User Authenticator #8/INFO]: UUID of player NokiaX3979 is 94985268-409c-3344-bdea-b02892fb0325
+[11:25:39] [Server thread/INFO]: NokiaX3979 joined the game
+[11:25:39] [Server thread/INFO]: NokiaX3979[/127.0.0.1:42592] logged in with entity id 21797 at ([SlimeWorld]-727.5632341556147, 70.0, 2036.640257487822)
+[11:26:28] [User Authenticator #8/INFO]: UUID of player CoconutMino is e45ab6ff-e456-3afb-8c96-43021dc48358
+[11:26:28] [Server thread/INFO]: CoconutMino joined the game
+[11:26:28] [Server thread/INFO]: CoconutMino[/127.0.0.1:34632] logged in with entity id 21893 at ([SlimeWorld]-654.5, 66.0, 2045.5)
+[11:26:43] [Server thread/INFO]: CoconutMino was slain by Zombie
+[11:27:04] [Server thread/INFO]: CoconutMino was slain by Zombie
+[11:27:08] [Server thread/INFO]: CoconutMino lost connection: Disconnected
+[11:27:08] [Server thread/INFO]: CoconutMino left the game
+[11:27:21] [Server thread/INFO]: NokiaX3979 lost connection: Disconnected
+[11:27:21] [Server thread/INFO]: NokiaX3979 left the game
+[11:28:42] [User Authenticator #9/INFO]: UUID of player NokiaX3979 is 94985268-409c-3344-bdea-b02892fb0325
+[11:28:42] [Server thread/INFO]: NokiaX3979 joined the game
+[11:28:42] [Server thread/INFO]: NokiaX3979[/127.0.0.1:47490] logged in with entity id 22025 at ([SlimeWorld]-727.5632341556147, 70.0, 2036.640257487822)
+[11:47:07] [User Authenticator #10/INFO]: UUID of player jiangCHY4122 is 96f9fc63-25d8-3456-a1d1-ceda1bcd1beb
+[11:47:07] [Server thread/INFO]: jiangCHY4122 joined the game
+[11:47:07] [Server thread/INFO]: jiangCHY4122[/127.0.0.1:52166] logged in with entity id 25439 at ([SlimeWorld]-718.2535086475318, 64.0, 2041.0339911989242)
+[11:47:23] [Async Chat Thread - #1/INFO]: <jiangCHY4122> (
+[11:47:25] [Async Chat Thread - #1/INFO]: <NokiaX3979> 对了）
+[11:47:35] [Async Chat Thread - #1/INFO]: <NokiaX3979> 要不你装个fabric（？
+[11:47:42] [Async Chat Thread - #1/INFO]: <jiangCHY4122> 啥（
+[11:47:57] [Async Chat Thread - #1/INFO]: <NokiaX3979> 我觉得有些mod挺好用的）
+[11:52:52] [Async Chat Thread - #2/INFO]: <jiangCHY4122> 话说
+[11:53:03] [Async Chat Thread - #2/INFO]: <jiangCHY4122> 你缺铁吗（（（
+[11:53:23] [Server thread/INFO]: [Server] hello
+[11:53:33] [Server thread/INFO]: [Server] I'm comming
+[11:54:16] [Server thread/INFO]: jiangCHY4122 was shot by Skeleton
+[11:54:43] [Server thread/INFO]: [Server] 话说咱们上几个mod?
+[11:54:57] [Server thread/INFO]: [Server] 但这样的话就没法用原生客户端了
+[11:55:14] [Async Chat Thread - #3/INFO]: <NokiaX3979> fabric mod （？
+[11:55:26] [Server thread/INFO]: [Server] 也就永远也不能用基岩互通了
+[11:55:34] [Server thread/INFO]: [Server] 虽然我觉得现在也是
+[11:55:39] [User Authenticator #11/INFO]: UUID of player Just_A_Pony is 5b1093ef-ff7c-3342-b7cc-7b02696a569c
+[11:55:39] [Server thread/INFO]: Just_A_Pony joined the game
+[11:55:39] [Server thread/INFO]: Just_A_Pony[/192.168.1.169:40692] logged in with entity id 27764 at ([SlimeWorld]48.22448874815891, 50.0, 2550.4999812087344)
+[11:55:47] [Async Chat Thread - #3/INFO]: <NokiaX3979> 我打算客户端安
+[11:56:12] [Async Chat Thread - #3/INFO]: <jiangCHY4122> 话这个村庄一大门似乎不对劲
+[11:56:32] [Server thread/INFO]: [Server] 有啥问题？
+[11:56:40] [Async Chat Thread - #3/INFO]: <jiangCHY4122> 关不上
+[11:56:49] [Server thread/INFO]: Just_A_Pony issued server command: /tp Just_A_Pony jiangCHY4122
+[11:56:49] [Server thread/INFO]: [Just_A_Pony: Teleported Just_A_Pony to jiangCHY4122]
+[11:56:53] [Async Chat Thread - #3/INFO]: <jiangCHY4122> 上
+[11:57:14] [Async Chat Thread - #3/INFO]: <Just_A_Pony> 那个开关是手动开门的
+[11:58:17] [Server thread/INFO]: NokiaX3979 was slain by Zombie
+[11:58:22] [Async Chat Thread - #4/INFO]: <Just_A_Pony> 下面那个拉杆是用来在白天时强制关门的
+[11:58:41] [Async Chat Thread - #4/INFO]: <Just_A_Pony> 上面那个是用来在关门的时候强制开门的
+[11:59:12] [Async Chat Thread - #4/INFO]: <Just_A_Pony> 上面那个拉杆和墙外的按钮相连
+[11:59:22] [Async Chat Thread - #4/INFO]: <Just_A_Pony> 效果是一样的
+[11:59:40] [Async Chat Thread - #4/INFO]: <jiangCHY4122> 看起来得做个基因测序仪
+[11:59:59] [Server thread/INFO]: Just_A_Pony issued server command: /xp add Just_A_Pony 500
+[11:59:59] [Server thread/INFO]: [Just_A_Pony: Gave 500 experience points to Just_A_Pony]
+[12:00:03] [Server thread/INFO]: Just_A_Pony issued server command: /xp add Just_A_Pony 500
+[12:00:03] [Server thread/INFO]: [Just_A_Pony: Gave 500 experience points to Just_A_Pony]
+[12:00:04] [Async Chat Thread - #4/INFO]: <jiangCHY4122> 如基因工程
+[12:00:17] [Async Chat Thread - #4/INFO]: <jiangCHY4122> 草这输入法怎么吞字
+[12:00:26] [Server thread/INFO]: Just_A_Pony issued server command: /xp add Just_A_Pony 50000
+[12:00:26] [Server thread/INFO]: [Just_A_Pony: Gave 50000 experience points to Just_A_Pony]
+[12:00:33] [Craft Scheduler Thread - 257/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[12:00:33] [Craft Scheduler Thread - 257/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (4 change(s) queued)
+[12:01:10] [Server thread/INFO]: jiangCHY4122 was slain by Enderman
+[12:01:44] [Server thread/INFO]: jiangCHY4122 was shot by Just_A_Pony using [Pony's Crossbow]
+[12:02:49] [Server thread/INFO]: jiangCHY4122 was slain by Zombified Piglin
+[12:04:13] [Async Chat Thread - #5/INFO]: <jiangCHY4122> 要铁吗（（（
+[12:04:22] [Async Chat Thread - #5/INFO]: <NokiaX3979> 不用）
+[12:05:02] [Async Chat Thread - #5/INFO]: <Just_A_Pony> 我想搞点铁傀儡（
+[12:05:21] [Async Chat Thread - #5/INFO]: <jiangCHY4122> 这个可以
+[12:05:47] [Async Chat Thread - #5/INFO]: <jiangCHY4122> 有南瓜没
+[12:06:02] [Server thread/INFO]: jiangCHY4122 tried to swim in lava
+[12:06:05] [Async Chat Thread - #5/INFO]: <Just_A_Pony> 你不是有种植吗（？
+[12:06:13] [Async Chat Thread - #5/INFO]: <jiangCHY4122> nope
+[12:06:24] [Async Chat Thread - #5/INFO]: <jiangCHY4122> 种的是西瓜
+[12:08:07] [Server thread/INFO]: NokiaX3979 lost connection: Disconnected
+[12:08:07] [Server thread/INFO]: NokiaX3979 left the game
+[12:10:33] [Craft Scheduler Thread - 260/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[12:10:33] [Craft Scheduler Thread - 260/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (2 change(s) queued)
+[12:12:23] [Server thread/INFO]: Just_A_Pony issued server command: /tp Just_A_Pony jiangCHY4122
+[12:12:23] [Server thread/INFO]: [Just_A_Pony: Teleported Just_A_Pony to jiangCHY4122]
+[12:12:51] [Server thread/INFO]: jiangCHY4122 was shot by Just_A_Pony using [Pony's Crossbow]
+[12:17:10] [Server thread/INFO]: Just_A_Pony issued server command: /gamemode spectator
+[12:17:10] [Server thread/INFO]: [Just_A_Pony: Set own game mode to Spectator Mode]
+[12:17:14] [Server thread/INFO]: Just_A_Pony issued server command: /tp Just_A_Pony jiangCHY4122
+[12:17:14] [Server thread/INFO]: [Just_A_Pony: Teleported Just_A_Pony to jiangCHY4122]
+[12:17:14] [Server thread/WARN]: Just_A_Pony moved too quickly! -10.54340976687115,-1.809486741892087,-19.3057843014044
+[12:17:22] [Server thread/INFO]: Just_A_Pony issued server command: /tp Just_A_Pony jiangCHY4122
+[12:17:22] [Server thread/INFO]: [Just_A_Pony: Teleported Just_A_Pony to jiangCHY4122]
+[12:17:22] [Server thread/WARN]: Just_A_Pony moved too quickly! 1.2421180814661739,-22.86366350648464,-2.9768927810011974
+[12:17:22] [Server thread/WARN]: Just_A_Pony moved too quickly! 1.2421180814661739,-22.86366350648464,-2.9768927810011974
+[12:17:28] [Server thread/INFO]: Just_A_Pony issued server command: /tp Just_A_Pony jiangCHY4122
+[12:17:28] [Server thread/INFO]: [Just_A_Pony: Teleported Just_A_Pony to jiangCHY4122]
+[12:17:29] [Server thread/INFO]: Just_A_Pony issued server command: /tp Just_A_Pony jiangCHY4122
+[12:17:29] [Server thread/INFO]: [Just_A_Pony: Teleported Just_A_Pony to jiangCHY4122]
+[12:18:12] [Server thread/INFO]: Just_A_Pony issued server command: /save-all
+[12:18:12] [Server thread/INFO]: [Just_A_Pony: Saved the game]
+[12:18:17] [Server thread/INFO]: Just_A_Pony issued server command: /gamemode
+[12:18:20] [Server thread/INFO]: Just_A_Pony issued server command: /gamemode creative
+[12:18:20] [Server thread/INFO]: [Just_A_Pony: Set own game mode to Creative Mode]
+[12:20:33] [Craft Scheduler Thread - 260/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[12:20:33] [Craft Scheduler Thread - 260/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (2 change(s) queued)
+[12:30:33] [Craft Scheduler Thread - 264/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[12:30:33] [Craft Scheduler Thread - 264/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (2 change(s) queued)
+[12:39:40] [User Authenticator #12/INFO]: UUID of player NokiaX3979 is 94985268-409c-3344-bdea-b02892fb0325
+[12:39:40] [Server thread/INFO]: NokiaX3979 joined the game
+[12:39:40] [Server thread/INFO]: NokiaX3979[/127.0.0.1:32830] logged in with entity id 36516 at ([SlimeWorld]-739.3130186816918, 69.0, 2043.2483680704015)
+[12:40:33] [Craft Scheduler Thread - 260/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[12:40:33] [Craft Scheduler Thread - 260/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (2 change(s) queued)
+[12:43:37] [Server thread/INFO]: NokiaX3979 lost connection: Disconnected
+[12:43:37] [Server thread/INFO]: NokiaX3979 left the game
+[12:50:33] [Craft Scheduler Thread - 264/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[12:50:33] [Craft Scheduler Thread - 264/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (2 change(s) queued)
+[12:54:11] [Server thread/INFO]: jiangCHY4122 was slain by Zombie
+[13:05:04] [Server thread/INFO]: jiangCHY4122 has reached the goal [Hired Help]
+[13:10:40] [Server thread/INFO]: Just_A_Pony issued server command: /tp Just_A_Pony jiangCHY4122
+[13:10:40] [Server thread/INFO]: [Just_A_Pony: Teleported Just_A_Pony to jiangCHY4122]
+[13:10:51] [Server thread/INFO]: jiangCHY4122 was shot by Just_A_Pony using [Pony's Bow]
+[13:11:03] [Server thread/INFO]: Just_A_Pony issued server command: /tp jiangCHY4122 Just_A_Pony
+[13:11:03] [Server thread/INFO]: [Just_A_Pony: Teleported jiangCHY4122 to Just_A_Pony]
+[13:11:18] [Server thread/INFO]: jiangCHY4122 was slain by Zombified Piglin
+[13:11:23] [Server thread/INFO]: Just_A_Pony issued server command: /tp jiangCHY4122 Just_A_Pony
+[13:11:23] [Server thread/INFO]: [Just_A_Pony: Teleported jiangCHY4122 to Just_A_Pony]
+[13:11:37] [Async Chat Thread - #6/INFO]: <jiangCHY4122> 有没有石英
+[13:11:58] [Server thread/INFO]: Just_A_Pony issued server command: /gamemode survival
+[13:11:58] [Server thread/INFO]: [Just_A_Pony: Set own game mode to Survival Mode]
+[13:12:31] [Async Chat Thread - #6/INFO]: <jiangCHY4122> 我得做仪
+[13:12:40] [Async Chat Thread - #6/INFO]: <jiangCHY4122> 基因测序仪
+[13:12:44] [Server thread/INFO]: Just_A_Pony issued server command: /gamemode creative
+[13:12:44] [Server thread/INFO]: [Just_A_Pony: Set own game mode to Creative Mode]
+[13:13:02] [Server thread/INFO]: jiangCHY4122 burned to death
+[13:13:04] [Server thread/INFO]: Just_A_Pony issued server command: /tp jiangCHY4122 Just_A_Pony
+[13:13:04] [Server thread/INFO]: Attempt to teleport dead player jiangCHY4122 restricted
+[13:13:04] [Server thread/INFO]: [Just_A_Pony: Teleported jiangCHY4122 to Just_A_Pony]
+[13:13:07] [Server thread/INFO]: Just_A_Pony issued server command: /tp jiangCHY4122 Just_A_Pony
+[13:13:07] [Server thread/INFO]: [Just_A_Pony: Teleported jiangCHY4122 to Just_A_Pony]
+[13:13:11] [Server thread/INFO]: Just_A_Pony issued server command: /gamemode survival
+[13:13:11] [Server thread/INFO]: [Just_A_Pony: Set own game mode to Survival Mode]
+[13:13:40] [Async Chat Thread - #6/INFO]: <jiangCHY4122> 一个就够
+[13:13:44] [Server thread/INFO]: jiangCHY4122 tried to swim in lava
+[13:14:01] [Server thread/INFO]: Just_A_Pony issued server command: /gamemode creativesurvival
+[13:14:05] [Server thread/INFO]: Just_A_Pony issued server command: /gamemode creative
+[13:14:05] [Server thread/INFO]: [Just_A_Pony: Set own game mode to Creative Mode]
+[13:16:03] [Server thread/INFO]: Just_A_Pony issued server command: /gamemode survival
+[13:16:03] [Server thread/INFO]: [Just_A_Pony: Set own game mode to Survival Mode]
+[13:16:18] [Async Chat Thread - #7/INFO]: <jiangCHY4122> 橡木板没（（
+[13:16:24] [Async Chat Thread - #7/INFO]: <jiangCHY4122> 有
+[13:18:50] [Server thread/INFO]: jiangCHY4122 tried to swim in lava
+[13:20:33] [Craft Scheduler Thread - 265/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[13:20:33] [Craft Scheduler Thread - 265/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (4 change(s) queued)
+[13:21:12] [Server thread/INFO]: Just_A_Pony issued server command: /gamemode creative
+[13:21:12] [Server thread/INFO]: [Just_A_Pony: Set own game mode to Creative Mode]
+[13:21:41] [Server thread/INFO]: jiangCHY4122 tried to swim in lava
+[13:23:53] [Server thread/INFO]: [GeneticChickengineering] 1 old records deleted from overworld chicken database (did they die?)
+[13:26:08] [Server thread/INFO]: Just_A_Pony lost connection: Disconnected
+[13:26:08] [Server thread/INFO]: Just_A_Pony left the game
+[13:29:41] [Server thread/INFO]: jiangCHY4122 lost connection: Disconnected
+[13:29:41] [Server thread/INFO]: jiangCHY4122 left the game
+[13:30:33] [Craft Scheduler Thread - 267/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[13:30:33] [Craft Scheduler Thread - 267/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (12 change(s) queued)
+[13:30:33] [Server thread/INFO]: [Slimefun] 成功保存了 1 个玩家的数据!
+[13:36:46] [Server thread/INFO]: Saving the game (this may take a moment!)
+[13:36:46] [Server thread/INFO]: Saved the game
+[13:36:50] [Server thread/INFO]: Stopping the server
+[13:36:50] [Server thread/INFO]: Stopping server
+[13:36:50] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.3.0
+[13:36:50] [Server thread/INFO]: [ExoticGarden] Disabling ExoticGarden vBuild 10 zh-CN(ybw0014) (git 4a9d091)
+[13:36:50] [Server thread/INFO]: [SimpleStorage] Disabling SimpleStorage vBuild 5 zh-CN(ybw0014) (git c443c7b)
+[13:36:50] [Server thread/INFO]: [GeneticChickengineering] Disabling GeneticChickengineering vBuild 2 zh-CN(CrispyXYZ) (git dfd4b14)
+[13:36:50] [Server thread/INFO]: [GeneticChickengineering] Connection to plugins/GeneticChickengineering/GCE.db has been closed.
+[13:36:50] [Server thread/INFO]: [ExcellentEnchants] Disabling ExcellentEnchants v3.2.1
+[13:36:50] [Server thread/INFO]: [ExcellentEnchants] All enchants are unregistered.
+[13:36:50] [Server thread/INFO]: [CreeperHeal2] Disabling CreeperHeal2 v1.4.0
+[13:36:50] [Server thread/INFO]: [NexEngine] Disabling NexEngine v2.1.2 build-14/04/2022
+[13:36:50] [Server thread/INFO]: [NexEngine] Disabling player block place tracker...
+[13:36:50] [Server thread/INFO]: [Slimefun] Disabling Slimefun v2022.05-release
+[13:36:50] [Server thread/INFO]: [Slimefun] 已备份 Slimefun 数据至: 2022-06-29-13-36.zip
+[13:36:50] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.3.1
+[13:36:50] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[13:36:50] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.2.1
+[13:36:55] [Server thread/ERROR]: Nag author: '_MylesC' of 'ViaVersion' about the following: This plugin is not properly shutting down its async tasks when it is being shut down. This task may throw errors during the final shutdown logs and might not complete before process dies.
+[13:36:55] [Server thread/INFO]: Saving players
+[13:36:55] [Server thread/INFO]: Saving worlds
+[13:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[SlimeWorld]'/minecraft:overworld
+[13:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (SlimeWorld): All chunks are saved
+[13:36:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[SlimeWorld_nether]'/minecraft:the_nether
+[13:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:36:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[SlimeWorld_the_end]'/minecraft:the_end
+[13:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (SlimeWorld): All chunks are saved
+[13:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:36:56] [Server thread/INFO]: Flushing Chunk IO
+[13:36:56] [Server thread/INFO]: Closing Thread Pool
+[13:36:56] [Server thread/INFO]: Closing Server
