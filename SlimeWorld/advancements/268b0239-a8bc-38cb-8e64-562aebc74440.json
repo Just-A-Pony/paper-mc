@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2022-07-03 18:16:35 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2022-06-22 16:43:44 +0800"
@@ -363,6 +369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-07-04 11:22:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-06-11 12:33:20 +0800"
@@ -624,6 +636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-07-04 11:22:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2022-06-11 12:48:09 +0800"
@@ -720,6 +738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-07-03 18:48:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-06-11 12:18:51 +0800"
@@ -776,7 +800,8 @@
       "minecraft:zombified_piglin": "2022-06-20 15:25:34 +0800",
       "minecraft:enderman": "2022-06-22 13:53:07 +0800",
       "minecraft:zombie": "2022-06-11 19:15:50 +0800",
-      "minecraft:drowned": "2022-06-12 11:53:54 +0800"
+      "minecraft:drowned": "2022-06-12 11:53:54 +0800",
+      "minecraft:zombie_villager": "2022-07-03 18:23:35 +0800"
     },
     "done": false
   },
@@ -861,6 +886,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2022-06-11 12:40:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2022-07-03 18:16:35 +0800"
     },
     "done": true
   },
@@ -1023,6 +1054,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2022-06-21 12:14:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-07-03 18:48:01 +0800"
     },
     "done": true
   },
@@ -1281,6 +1318,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2022-06-22 18:06:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-07-03 18:48:01 +0800"
     },
     "done": true
   },
@@ -1588,6 +1631,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2022-07-03 18:46:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-07-04 11:22:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2022-06-10 20:57:12 +0800"
@@ -1729,6 +1784,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-06-10 18:01:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2022-07-03 18:16:35 +0800"
     },
     "done": true
   },
