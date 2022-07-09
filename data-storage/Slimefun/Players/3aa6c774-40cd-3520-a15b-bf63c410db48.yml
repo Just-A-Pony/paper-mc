@@ -54,7 +54,20 @@ researches:
   '50': true
   '6': true
   '92': true
+  '42': true
+  '9': true
+  '5': true
+  '276': true
+  '261': true
+  '116': true
+  '241': true
+  '30': true
+  '72': true
+  '176': true
+  '101': true
+  '138': true
+  '244': true
 backpacks:
   '0':
-    size: 18
+    size: 54
     contents: {}

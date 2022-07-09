@@ -555,16 +555,26 @@ backpacks:
   '1':
     size: 36
     contents:
-      '19':
+      '1':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
         type: SAND
         amount: 64
-      '31':
+      '2':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
         type: SAND
-        amount: 3
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_INGOT
+        amount: 4
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: COAL
+        amount: 11
   '2':
     size: 36
     contents: {}
