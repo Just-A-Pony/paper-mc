@@ -1,2 +1,602 @@
-[07:46:08] [Server thread/INFO]: Saving the game (this may take a moment!)
-[07:46:09] [Server thread/INFO]: Saved the game
+[20:27:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:27:51] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:27:52] [Worker-Main-1/INFO]: Loaded 7 recipes
+[20:27:53] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[20:27:53] [Server thread/INFO]: Loading properties
+[20:27:53] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[20:27:53] [Server thread/INFO]: Debug logging is disabled
+[20:27:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:27:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:27:53] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[20:27:53] [Server thread/INFO]: Default game type: SURVIVAL
+[20:27:53] [Server thread/INFO]: Generating keypair
+[20:27:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:27:54] [Server thread/INFO]: Using epoll channel type
+[20:27:56] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.2.1
+[20:27:56] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.3.1
+[20:27:56] [Server thread/INFO]: [ViaVersion] ViaVersion 4.3.1 is now loaded, injecting!
+[20:27:56] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[20:27:56] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[20:27:56] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[20:27:57] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[20:27:57] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[20:27:57] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[20:27:57] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[20:27:57] [Via-Mappingloader-7/INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
+[20:27:57] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.18 -> 1.19 mappings...
+[20:27:57] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:27:57] [Server thread/INFO]: [Slimefun] Loading Slimefun v2022.05-release
+[20:27:57] [Server thread/INFO]: [NexEngine] Loading NexEngine v2.1.2 build-14/04/2022
+[20:27:57] [Server thread/INFO]: [CreeperHeal2] Loading CreeperHeal2 v1.4.0
+[20:27:57] [Server thread/INFO]: [ExcellentEnchants] Loading ExcellentEnchants v3.2.1
+[20:27:57] [Server thread/INFO]: [GeneticChickengineering] Loading GeneticChickengineering vBuild 2 zh-CN(CrispyXYZ) (git dfd4b14)
+[20:27:57] [Server thread/INFO]: [SimpleStorage] Loading SimpleStorage vBuild 5 zh-CN(ybw0014) (git c443c7b)
+[20:27:57] [Server thread/INFO]: [ExoticGarden] Loading ExoticGarden vBuild 10 zh-CN(ybw0014) (git 4a9d091)
+[20:27:57] [Server thread/INFO]: [PlugManX] Loading PlugManX v2.3.0
+[20:27:57] [Server thread/INFO]: true
+[20:27:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:27:57] [Server thread/INFO]: [NexEngine] Enabling NexEngine v2.1.2 build-14/04/2022
+[20:27:57] [Server thread/INFO]: [NexEngine] Loaded NMS version: V1_16_R3
+[20:27:57] [Server thread/INFO]: [NexEngine] Found 0 external module(s).
+[20:27:57] [Server thread/INFO]: [NexEngine] Plugin loaded in 411 ms!
+[20:27:57] [Server thread/INFO]: [ExcellentEnchants] Enabling ExcellentEnchants v3.2.1
+[20:27:57] [Server thread/INFO]: [ExcellentEnchants] Powered by: NexEngine
+[20:27:57] [Server thread/INFO]: [ExcellentEnchants] Tiers Loaded: 5
+[20:27:57] [Server thread/INFO]: [ExcellentEnchants] Found 0 external module(s).
+[20:27:57] [Server thread/WARN]: [NexEngine] Loaded class su.nightexpress.excellentenchants.nms.V1_16_R3 from ExcellentEnchants v3.2.1 which is not a depend, softdepend or loadbefore of this plugin.
+[20:27:57] [Server thread/ERROR]: [ExcellentEnchants] [Smelter] Invalid source material 'RAW_IRON' !
+[20:27:57] [Server thread/ERROR]: [ExcellentEnchants] [Smelter] Invalid source material 'RAW_GOLD' !
+[20:27:57] [Server thread/ERROR]: [ExcellentEnchants] [Smelter] Invalid source material 'RAW_COPPER' !
+[20:27:58] [Server thread/ERROR]: [ExcellentEnchants] [Treasures] Invalid source material 'ROOTED_DIRT' !
+[20:27:58] [Server thread/INFO]: [NexEngine] Enabling player block place tracker...
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: blast_mining
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_breaking
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_misfortune
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: divine_touch
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: haste
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: lucky_miner
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: replanter
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: silk_chest
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: smelter
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: telekinesis
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: treasures
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: tunnel
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: veinminer
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: bane_of_netherspawn
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ice_aspect
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: infernus
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: venom
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: exhaust
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: wither
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: paralyze
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: exp_hunter
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: decapitator
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: cutter
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: confusion
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: double_strike
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: nimble
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: blindness
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: vampire
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: cure
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: rage
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: scavenger
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: surprise
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: temper
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: thrifty
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: thunder
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: village_defender
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: rocket
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: flame_walker
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: hardened
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: cold_steel
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: self_destruction
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: saturation
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: aquaman
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: night_vision
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: bunny_hop
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: sonic
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: regrowth
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: bomber
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: confusing_arrows
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: dragonfire_arrows
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: electrified_arrows
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ender_bow
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ghast
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: hover
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: poisoned_arrows
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: withered_arrows
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: explosive_arrows
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Enchants Registered: 57
+[20:27:58] [Server thread/INFO]: [ExcellentEnchants] Plugin loaded in 603 ms!
+[20:27:58] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.3.0
+[20:27:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:27:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:27:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:27:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:27:58] [Server thread/INFO]: Preparing level "SlimeWorld"
+[20:27:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:27:59] [Server thread/INFO]: Preparing spawn area: 0%
+[20:27:59] [Server thread/INFO]: Preparing spawn area: 0%
+[20:27:59] [Server thread/INFO]: Time elapsed: 569 ms
+[20:27:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:28:00] [Server thread/INFO]: Time elapsed: 572 ms
+[20:28:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:28:00] [Server thread/INFO]: Time elapsed: 161 ms
+[20:28:00] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.2.1
+[20:28:00] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mDetected Minecraft [33;1mv1_16_R3[32;1m, using [33;1mSpigotSkinRefresher[32;1m.[0;39m
+[20:28:00] [Server thread/INFO]: [SkinsRestorer] [ACF] Enabled Asynchronous Tab Completion Support!
+[20:28:01] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.3.1
+[20:28:01] [Server thread/INFO]: [Slimefun] Enabling Slimefun v2022.05-release
+[20:28:01] [Server thread/INFO]: [Slimefun] 检测到 Paper 服务端! 性能优化已应用.
+[20:28:01] [Server thread/WARN]: [Slimefun] ****************************************************
+[20:28:01] [Server thread/WARN]: [Slimefun] * 正在使用的 Java 版本 (Java 16) 已过时.
+[20:28:01] [Server thread/WARN]: [Slimefun] * 
+[20:28:01] [Server thread/WARN]: [Slimefun] * 由于高版本 Minecraft 对 Java 17 的强制依赖,
+[20:28:01] [Server thread/WARN]: [Slimefun] * 我们推荐您尽快升级到 Java 17.
+[20:28:01] [Server thread/WARN]: [Slimefun] * 同时，为尽快使用到新版本Java带来的特性,
+[20:28:01] [Server thread/WARN]: [Slimefun] * Slimefun 也会在不久的将来依赖于 Java 17.
+[20:28:01] [Server thread/WARN]: [Slimefun] * 为了不影响您以后的正常使用，请尽快更新!
+[20:28:01] [Server thread/WARN]: [Slimefun] ****************************************************
+[20:28:01] [Server thread/INFO]: [Slimefun] 正在创建文件夹...
+[20:28:01] [Server thread/INFO]: [Slimefun] 正在加载语言文件...
+[20:28:01] [Server thread/INFO]: [Slimefun] Loaded language "zh-CN"
+[20:28:01] [Server thread/INFO]: [Slimefun] Available languages: en, de, fr, it, es, ru, pl, uk, sv, nl, cs, bg, pt-BR, hu, lv, sk, vi, id, zh-CN, zh-TW, ja, ko, he, ar, tr, th, tl
+[20:28:01] [Server thread/INFO]: [Slimefun] 加载矿物资源...
+[20:28:02] [Server thread/INFO]: [Slimefun] 加载自定义标签...
+[20:28:02] [Server thread/INFO]: [Slimefun] 加载物品...
+[20:28:03] [Server thread/INFO]: [Slimefun] 加载研究项目...
+[20:28:03] [Server thread/INFO]: [Slimefun] Loading Wiki pages...
+[20:28:03] [Server thread/INFO]: [Slimefun] 正在注册监听器...
+[20:28:03] [Server thread/WARN]: [Slimefun] 未检测到 Quickshop-Reremake, 相关功能将自动关闭
+[20:28:03] [Server thread/WARN]: [Slimefun] 未检测到领地插件, 相关功能将自动关闭
+[20:28:03] [Server thread/WARN]: [Slimefun] 无法接入 Vault. 你必须先安装 Vault!
+[20:28:06] [Server thread/INFO]: [Slimefun] 正在加载第三方插件支持...
+[20:28:06] [Server thread/INFO]: [Slimefun] Slimefun 完成加载, 耗时 5.77s
+[20:28:06] [Server thread/INFO]: [CreeperHeal2] Enabling CreeperHeal2 v1.4.0
+[20:28:06] [Server thread/INFO]: [GeneticChickengineering] Enabling GeneticChickengineering vBuild 2 zh-CN(CrispyXYZ) (git dfd4b14)
+[20:28:07] [Server thread/INFO]: [GeneticChickengineering] Connection to plugins/GeneticChickengineering/GCE.db has been established.
+[20:28:07] [Server thread/INFO]: [GeneticChickengineering] Registered 64 chickens
+[20:28:07] [Server thread/INFO]: [SimpleStorage] Enabling SimpleStorage vBuild 5 zh-CN(ybw0014) (git c443c7b)
+[20:28:07] [Server thread/INFO]: [SimpleStorage] ########################################
+[20:28:07] [Server thread/INFO]: [SimpleStorage]           SimpleStorage 简易存储         
+[20:28:07] [Server thread/INFO]: [SimpleStorage]        作者: Sefiraat 汉化: ybw0014      
+[20:28:07] [Server thread/INFO]: [SimpleStorage] ########################################
+[20:28:07] [Server thread/INFO]: [ExoticGarden] Enabling ExoticGarden vBuild 10 zh-CN(ybw0014) (git 4a9d091)
+[20:28:07] [Server thread/INFO]: Running delayed init tasks
+[20:28:07] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.16.4/5 (754)
+[20:28:07] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 16.0.2). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[20:28:07] [Craft Scheduler Thread - 3/INFO]: [NexEngine] Loading player placed blocks in async mode...
+[20:28:07] [Server thread/INFO]: [Slimefun] Now running MetricsModule build #28
+[20:28:07] [Server thread/INFO]: [Slimefun] with a total of 14/19 chart(s)!
+[20:28:07] [Server thread/INFO]: [Slimefun] Metrics build #28 started.
+[20:28:07] [Server thread/INFO]: [Slimefun] Collecting Snapshots of all Recipes...
+[20:28:07] [Server thread/INFO]: [Slimefun] Found 859 Recipes!
+[20:28:07] [Server thread/INFO]: 
+[20:28:07] [Server thread/INFO]: ######################### - Slimefun v2022.05-release - #########################
+[20:28:07] [Server thread/INFO]: 
+[20:28:07] [Server thread/INFO]: 成功加载了 1033 个物品和 260 个研究
+[20:28:07] [Server thread/INFO]: ( 548 物品来自本体, 485 个物品来自 3 扩展 )
+[20:28:07] [Server thread/INFO]: 
+[20:28:07] [Server thread/INFO]: 
+[20:28:07] [Server thread/INFO]:  - 源码:      https://github.com/StarWishsama/Slimefun4
+[20:28:07] [Server thread/INFO]:  - Bug 反馈:  https://github.com/StarWishsama/Slimefun4/issues
+[20:28:07] [Server thread/INFO]: 
+[20:28:07] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20:28:07] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[20:28:07] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[20:28:07] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[20:28:07] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[32;1m |[0;39m
+[20:28:07] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[20:28:07] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20:28:07] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [32;1m14.2.1[0;39m
+[20:28:07] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[20:28:07] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20:28:08] [Server thread/INFO]: [Slimefun] Loading Blocks for World "SlimeWorld"
+[20:28:08] [Server thread/INFO]: [Slimefun] This may take a long time...
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -730, 73, 2,017 (ORANGE -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -736, 74, 2,022 (ORANGE_SAPLING -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -735, 73, 2,026 (ORANGE_SAPLING -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -734, 74, 2,023 (ORANGE_SAPLING -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -731, 76, 2,021 (ORANGE_SAPLING -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -729, 76, 2,020 (ORANGE_SAPLING -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -745, 74, 2,023 (ORANGE_SAPLING -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -727, 75, 2,060 (ORANGE_SAPLING -> OAK_APPLE_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -723, 75, 2,063 (ORANGE_SAPLING -> OAK_APPLE_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -723, 76, 2,063 (ORANGE_SAPLING -> ORANGE)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -724, 78, 2,054 (ORANGE_SAPLING -> ORANGE)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -736, 76, 2,059 (ORANGE_SAPLING -> ORANGE)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -739, 73, 2,054 (ORANGE_SAPLING -> ORANGE)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -722, 76, 2,072 (ORANGE_SAPLING -> ORANGE)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -727, 78, 2,067 (ORANGE_SAPLING -> ORANGE)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -734, 74, 2,021 (PEAR -> ORANGE_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -691, 75, 2,079 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -732, 77, 2,019 (PEAR -> ORANGE_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -658, 75, 2,040 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -655, 71, 2,033 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -660, 74, 2,067 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -662, 78, 2,097 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -696, 76, 2,097 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -733, 81, 2,097 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -749, 79, 2,099 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -748, 79, 2,092 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -799, 77, 2,097 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -801, 76, 2,093 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -794, 95, 2,050 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -712, 77, 1,999 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -685, 78, 2,000 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -679, 73, 2,002 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -787, 94, 2,048 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -791, 92, 2,044 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -783, 90, 2,042 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -768, 95, 2,023 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -765, 94, 2,018 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -762, 91, 2,021 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -771, 92, 2,026 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -748, 97, 1,994 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -747, 98, 2,001 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -754, 95, 2,002 (PEAR -> PEAR_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -242, 70, 2,091 (LEMON -> LEMON_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -299, 69, 2,070 (LEMON -> LEMON_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -299, 71, 2,068 (LEMON -> LEMON_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -299, 72, 2,061 (LEMON -> LEMON_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -300, 68, 2,044 (LEMON -> LEMON_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -291, 69, 2,056 (LEMON -> LEMON_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -284, 68, 2,039 (LEMON -> LEMON_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -276, 69, 2,029 (LEMON -> LEMON_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -277, 69, 2,020 (LEMON -> LEMON_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -272, 70, 2,021 (LEMON -> LEMON_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ -270, 68, 2,004 (LEMON -> LEMON_SAPLING)
+[20:28:08] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 136ms)
+[20:28:08] [Server thread/INFO]: [Slimefun] Loaded a total of 8,907 Blocks for World "SlimeWorld"
+[20:28:08] [Server thread/INFO]: [Slimefun] Avg: 0.02ms/Block
+[20:28:08] [Server thread/INFO]: [Slimefun] Loading Blocks for World "SlimeWorld_nether"
+[20:28:08] [Server thread/INFO]: [Slimefun] This may take a long time...
+[20:28:08] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[20:28:08] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "SlimeWorld_nether"
+[20:28:08] [Server thread/INFO]: [Slimefun] Loading Blocks for World "SlimeWorld_the_end"
+[20:28:08] [Server thread/INFO]: [Slimefun] This may take a long time...
+[20:28:08] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[20:28:08] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "SlimeWorld_the_end"
+[20:28:08] [Server thread/INFO]: [dough: protection] Loading Protection Modules...
+[20:28:08] [Server thread/INFO]: [dough: protection] This may happen more than once.
+[20:28:08] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[20:28:08] [Server thread/INFO]: Done (14.766s)! For help, type "help"
+[20:28:08] [Server thread/INFO]: Timings Reset
+[20:28:08] [User Authenticator #1/INFO]: UUID of player wcy-littleskin is 3aa6c774-40cd-3520-a15b-bf63c410db48
+[20:28:08] [Server thread/INFO]: wcy-littleskin joined the game
+[20:28:08] [Server thread/INFO]: wcy-littleskin[/127.0.0.1:49030] logged in with entity id 69 at ([SlimeWorld]-759.5254756449374, 71.0, 2031.771263944327)
+[20:28:09] [User Authenticator #1/INFO]: UUID of player NokiaX3979 is 94985268-409c-3344-bdea-b02892fb0325
+[20:28:09] [Server thread/INFO]: NokiaX3979 joined the game
+[20:28:09] [Server thread/INFO]: NokiaX3979[/127.0.0.1:49044] logged in with entity id 183 at ([SlimeWorld]-694.5899973329432, 68.0, 2039.5365552777666)
+[20:28:15] [User Authenticator #1/INFO]: UUID of player Just_A_Pony is 5b1093ef-ff7c-3342-b7cc-7b02696a569c
+[20:28:15] [Server thread/INFO]: Just_A_Pony joined the game
+[20:28:15] [Server thread/INFO]: Just_A_Pony[/192.168.1.144:58858] logged in with entity id 396 at ([SlimeWorld]-753.3000000119209, 70.0, 2034.7484188840638)
+[20:28:21] [User Authenticator #1/INFO]: UUID of player jiangCHY4122 is 96f9fc63-25d8-3456-a1d1-ceda1bcd1beb
+[20:28:21] [Server thread/INFO]: jiangCHY4122 joined the game
+[20:28:21] [Server thread/INFO]: jiangCHY4122[/127.0.0.1:38284] logged in with entity id 397 at ([SlimeWorld]-748.3977499128417, 69.0, 2042.4765220839909)
+[20:28:35] [Async Chat Thread - #0/INFO]: <Just_A_Pony> wel
+[20:28:44] [Async Chat Thread - #0/INFO]: <Just_A_Pony> 似乎还是没好/
+[20:29:03] [Async Chat Thread - #0/INFO]: <jiangCHY4122> 正常 但不完全正常
+[20:29:08] [Craft Scheduler Thread - 4/WARN]: [Slimefun] Attempted to refresh skin cache, got this response: TimeoutException: null
+[20:29:08] [Craft Scheduler Thread - 4/WARN]: [Slimefun] This usually means mojang.com is temporarily down or started to rate-limit this connection, nothing to worry about!
+[20:29:15] [Async Chat Thread - #0/INFO]: <jiangCHY4122> 花园的东西都正常
+[20:29:27] [Async Chat Thread - #0/INFO]: <jiangCHY4122> 但矿物全寄
+[20:29:47] [Craft Scheduler Thread - 6/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[20:29:47] [Craft Scheduler Thread - 6/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (1 change(s) queued)
+[20:30:44] [Server thread/INFO]: Just_A_Pony issued server command: /give Just_A_Pony tnt 64
+[20:30:44] [Server thread/INFO]: [Just_A_Pony: Gave 64 [TNT] to Just_A_Pony]
+[20:30:48] [Server thread/INFO]: wcy-littleskin has made the advancement [Enchanter]
+[20:31:27] [Async Chat Thread - #1/INFO]: <jiangCHY4122> 谁有附魔台我用用
+[20:31:31] [Async Chat Thread - #1/INFO]: <Just_A_Pony> 我有
+[20:31:38] [Async Chat Thread - #1/INFO]: <Just_A_Pony> 地下室了
+[20:32:02] [Async Chat Thread - #1/INFO]: <Just_A_Pony> 在那几个粘液科技的机器旁边有个洞
+[20:32:10] [Async Chat Thread - #1/INFO]: <Just_A_Pony> 下去就是附魔台
+[20:32:30] [Server thread/INFO]: wcy-littleskin has made the advancement [Ol' Betsy]
+[20:32:30] [Server thread/INFO]: wcy-littleskin has made the advancement [Take Aim]
+[20:36:48] [Server thread/INFO]: wcy-littleskin was shot by Skeleton
+[20:36:52] [Async Chat Thread - #2/INFO]: <NokiaX3979> stone(?
+[20:36:54] [User Authenticator #2/INFO]: UUID of player 114514 is 6c03ec95-36b9-385c-b358-28d2fe101bc8
+[20:36:54] [Server thread/INFO]: 114514 joined the game
+[20:36:54] [Server thread/INFO]: 114514[/127.0.0.1:42360] logged in with entity id 1825 at ([SlimeWorld]-695.0489261376698, 68.0, 2038.5836349555234)
+[20:37:03] [Async Chat Thread - #2/INFO]: <NokiaX3979> k
+[20:37:18] [Server thread/INFO]: 114514 issued server command: /back
+[20:37:21] [Server thread/INFO]: Just_A_Pony issued server command: /msg wcy-littleskin 别在晚上出去（）
+[20:37:35] [Server thread/INFO]: Just_A_Pony issued server command: /msg wcy-littleskin 除非你确保你有十足准备
+[20:37:48] [Server thread/INFO]: jiangCHY4122 lost connection: Disconnected
+[20:37:48] [Server thread/INFO]: jiangCHY4122 left the game
+[20:38:00] [User Authenticator #3/INFO]: UUID of player jiangCHY4122 is 96f9fc63-25d8-3456-a1d1-ceda1bcd1beb
+[20:38:00] [Server thread/INFO]: jiangCHY4122 joined the game
+[20:38:00] [Server thread/INFO]: jiangCHY4122[/127.0.0.1:40144] logged in with entity id 1966 at ([SlimeWorld]-719.8175775217668, 70.0, 2050.0908030879127)
+[20:38:01] [Server thread/INFO]: Just_A_Pony issued server command: /msg wcy-littleskin 这个长城可不是白建的
+[20:38:06] [Async Chat Thread - #3/INFO]: <NokiaX3979> 得进来看
+[20:39:11] [Server thread/INFO]: jiangCHY4122 lost connection: Disconnected
+[20:39:11] [Server thread/INFO]: jiangCHY4122 left the game
+[20:39:27] [User Authenticator #4/INFO]: UUID of player jiangCHY4122 is 96f9fc63-25d8-3456-a1d1-ceda1bcd1beb
+[20:39:27] [Server thread/INFO]: jiangCHY4122 joined the game
+[20:39:27] [Server thread/INFO]: jiangCHY4122[/127.0.0.1:60540] logged in with entity id 2213 at ([SlimeWorld]-719.8175775217668, 70.0, 2050.0908030879127)
+[20:39:45] [Server thread/INFO]: jiangCHY4122 lost connection: Disconnected
+[20:39:45] [Server thread/INFO]: jiangCHY4122 left the game
+[20:39:47] [Craft Scheduler Thread - 20/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[20:39:47] [Craft Scheduler Thread - 20/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (9 change(s) queued)
+[20:39:47] [Server thread/INFO]: [Slimefun] 成功保存了 1 个玩家的数据!
+[20:40:20] [Server thread/INFO]: wcy-littleskin was slain by Enderman
+[20:40:57] [Server thread/INFO]: Just_A_Pony was blown up by Just_A_Pony
+[20:41:05] [Server thread/INFO]: wcy-littleskin was slain by Enderman
+[20:41:06] [User Authenticator #5/INFO]: UUID of player jiangCHY4122 is 96f9fc63-25d8-3456-a1d1-ceda1bcd1beb
+[20:41:06] [Server thread/INFO]: jiangCHY4122 joined the game
+[20:41:06] [Server thread/INFO]: jiangCHY4122[/127.0.0.1:44168] logged in with entity id 2498 at ([SlimeWorld]-709.854396777935, 69.0, 2057.1032368830374)
+[20:41:13] [User Authenticator #5/INFO]: UUID of player AndrewTR is 268b0239-a8bc-38cb-8e64-562aebc74440
+[20:41:14] [Server thread/INFO]: AndrewTR joined the game
+[20:41:14] [Server thread/INFO]: AndrewTR[/[2408:821a:161a:5733:41e1:9ada:d6b4:fcd6%0]:57282] logged in with entity id 2522 at ([SlimeWorld]-270.2700078408746, 66.0, 2067.108821419005)
+[20:41:37] [Async Chat Thread - #4/INFO]: <AndrewTR> someone is standing under the tree
+[20:41:49] [Server thread/INFO]: wcy-littleskin was slain by Enderman
+[20:42:13] [Async Chat Thread - #4/INFO]: <AndrewTR> 下矿嘛
+[20:42:17] [Async Chat Thread - #4/INFO]: <wcy-littleskin> enen
+[20:43:09] [Async Chat Thread - #4/INFO]: <Just_A_Pony> 六个人！
+[20:43:14] [Async Chat Thread - #4/INFO]: <AndrewTR> @114514
+[20:43:20] [Server thread/INFO]: Just_A_Pony issued server command: /tps
+[20:43:24] [Async Chat Thread - #4/INFO]: <AndrewTR> 能把椰子做成玉吗
+[20:43:30] [Server thread/INFO]: Just_A_Pony issued server command: /tp Just_A_Pony jiangCHY4122
+[20:43:30] [Server thread/INFO]: [Just_A_Pony: Teleported Just_A_Pony to jiangCHY4122]
+[20:43:31] [Async Chat Thread - #4/INFO]: <NokiaX3979> 还有俩没进来（
+[20:43:38] [Async Chat Thread - #4/INFO]: <AndrewTR> who
+[20:43:50] [Async Chat Thread - #4/INFO]: <NokiaX3979> OKHI233&zhuWin
+[20:43:51] [Async Chat Thread - #4/INFO]: <jiangCHY4122> thx
+[20:44:15] [Async Chat Thread - #4/INFO]: <NokiaX3979> 矿在哪（
+[20:44:22] [Async Chat Thread - #4/INFO]: <AndrewTR> 你问我我问谁
+[20:44:40] [Async Chat Thread - #4/INFO]: <NokiaX3979> ah.
+[20:45:52] [Async Chat Thread - #5/INFO]: <AndrewTR> 我超我矿呢
+[20:46:02] [Async Chat Thread - #5/INFO]: <AndrewTR> 找到了
+[20:46:18] [Async Chat Thread - #5/INFO]: <AndrewTR> 润到我岛上
+[20:46:23] [Async Chat Thread - #5/INFO]: <AndrewTR> 树林子最后面
+[20:46:39] [Async Chat Thread - #5/INFO]: <AndrewTR> -247 67 2201
+[20:46:43] [Async Chat Thread - #5/INFO]: <AndrewTR> quickly
+[20:46:55] [Async Chat Thread - #5/INFO]: <jiangCHY4122> 还得是宏（
+[20:47:22] [Server thread/INFO]: wcy-littleskin tried to swim in lava
+[20:48:04] [Async Chat Thread - #6/INFO]: <AndrewTR> 先到我家罢
+[20:48:33] [Async Chat Thread - #6/INFO]: <AndrewTR> 别人呢
+[20:48:42] [Async Chat Thread - #6/INFO]: <wcy-littleskin> idk
+[20:48:48] [Async Chat Thread - #6/INFO]: <AndrewTR> 那就俩
+[20:49:09] [Async Chat Thread - #6/INFO]: <AndrewTR> go
+[20:49:15] [Async Chat Thread - #6/INFO]: <wcy-littleskin> 要不在糊弄俩
+[20:49:21] [Async Chat Thread - #6/INFO]: <Just_A_Pony> 还是宏快啊（）
+[20:49:21] [Async Chat Thread - #6/INFO]: <AndrewTR> follow me
+[20:49:39] [Async Chat Thread - #6/INFO]: <wcy-littleskin> 草没带货币
+[20:49:42] [Async Chat Thread - #6/INFO]: <wcy-littleskin> 火把
+[20:49:47] [Craft Scheduler Thread - 43/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[20:49:47] [Craft Scheduler Thread - 43/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (20 change(s) queued)
+[20:49:47] [Server thread/INFO]: [Slimefun] 成功保存了 1 个玩家的数据!
+[20:50:01] [Async Chat Thread - #6/INFO]: <wcy-littleskin> ok
+[20:50:25] [Async Chat Thread - #6/INFO]: <wcy-littleskin> thanks
+[20:50:26] [Async Chat Thread - #6/INFO]: <NokiaX3979> 等下我找找东西
+[20:50:40] [Async Chat Thread - #6/INFO]: <AndrewTR> 就挺突然的
+[20:50:49] [Server thread/INFO]: Just_A_Pony issued server command: /tp Just_A_Pony NokiaX3979
+[20:50:49] [Server thread/INFO]: [Just_A_Pony: Teleported Just_A_Pony to NokiaX3979]
+[20:50:56] [Async Chat Thread - #6/INFO]: <AndrewTR> 给我剩点
+[20:51:32] [Server thread/INFO]: wcy-littleskin was shot by Skeleton
+[20:51:37] [Server thread/INFO]: wcy-littleskin issued server command: /fk
+[20:51:40] [Async Chat Thread - #6/INFO]: <wcy-littleskin> fk
+[20:52:18] [Async Chat Thread - #6/INFO]: <NokiaX3979> 货叉叫我撇没了（
+[20:52:21] [Async Chat Thread - #6/INFO]: <AndrewTR> a lot of coat
+[20:52:24] [Async Chat Thread - #6/INFO]: <NokiaX3979> 火柴
+[20:53:28] [Async Chat Thread - #7/INFO]: <114514> sleep
+[20:53:32] [Async Chat Thread - #7/INFO]: <114514> (
+[20:53:32] [Async Chat Thread - #7/INFO]: <AndrewTR> 新发现
+[20:53:37] [Async Chat Thread - #7/INFO]: <AndrewTR> 废弃狂情
+[20:53:37] [Server thread/INFO]: Just_A_Pony issued server command: /tp Just_A_Pony AndrewTR
+[20:53:37] [Server thread/INFO]: [Just_A_Pony: Teleported Just_A_Pony to AndrewTR]
+[20:53:40] [Async Chat Thread - #7/INFO]: <AndrewTR> 矿井
+[20:55:25] [Server thread/INFO]: Just_A_Pony was killed by Just_A_Pony using [Pony's Bow]
+[20:55:33] [Async Chat Thread - #8/INFO]: <AndrewTR> 要剥削的一点都不剩
+[20:56:13] [Async Chat Thread - #8/INFO]: <Just_A_Pony> wel
+[20:57:33] [Server thread/INFO]: 114514 lost connection: Disconnected
+[20:57:33] [Server thread/INFO]: 114514 left the game
+[20:57:48] [Async Chat Thread - #9/INFO]: <NokiaX3979> 拿那个弩打的唯一坏处是掉落物全没了
+[20:58:02] [Async Chat Thread - #9/INFO]: <Just_A_Pony> wel/
+[20:58:03] [Async Chat Thread - #9/INFO]: <NokiaX3979> 刚才小白还有附魔的东西呢
+[20:58:09] [Async Chat Thread - #9/INFO]: <NokiaX3979> 全无了（
+[20:58:17] [Async Chat Thread - #9/INFO]: <Just_A_Pony> 毕竟是服务器火箭筒
+[20:58:29] [Async Chat Thread - #9/INFO]: <Just_A_Pony> 我觉得这玩意还是永久封存比较好（
+[20:58:50] [Async Chat Thread - #9/INFO]: <Just_A_Pony> 我当初脑抽造出来的
+[20:59:03] [Async Chat Thread - #9/INFO]: <AndrewTR> 快成煤老板了
+[20:59:05] [User Authenticator #6/INFO]: UUID of player Hajeekn is 41545ac2-273c-3304-87b9-ba8ee002961a
+[20:59:05] [Server thread/INFO]: Hajeekn joined the game
+[20:59:05] [Server thread/INFO]: Hajeekn[/[2409:8a4c:ba26:d140:9e9d:7eff:feb5:ea65%0]:5448] logged in with entity id 10498 at ([SlimeWorld]-660.5, 63.0, 2042.5)
+[20:59:07] [Async Chat Thread - #9/INFO]: <wcy-littleskin> 不要给我
+[20:59:08] [Async Chat Thread - #9/INFO]: <Just_A_Pony> 然后用这玩意轰炸了一遍地狱
+[20:59:10] [Async Chat Thread - #9/INFO]: <NokiaX3979> 9?
+[20:59:20] [Async Chat Thread - #9/INFO]: <Just_A_Pony> 现在地狱的火都是被这东西炸的
+[20:59:21] [Async Chat Thread - #9/INFO]: <wcy-littleskin> 如果不要可以给我（
+[20:59:47] [Craft Scheduler Thread - 63/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[20:59:47] [Craft Scheduler Thread - 63/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (2 change(s) queued)
+[20:59:47] [Server thread/INFO]: [Slimefun] 成功保存了 1 个玩家的数据!
+[20:59:55] [Async Chat Thread - #9/INFO]: <AndrewTR> 卧槽
+[20:59:58] [Async Chat Thread - #9/INFO]: <AndrewTR> 金！
+[21:00:06] [Async Chat Thread - #9/INFO]: <Just_A_Pony> welcome
+[21:00:25] [Async Chat Thread - #9/INFO]: <Hajeekn> ?(
+[21:00:50] [Server thread/INFO]: NokiaX3979 hit the ground too hard
+[21:00:54] [Async Chat Thread - #9/INFO]: <Hajeekn> u1s1 这东西怎么玩
+[21:01:11] [Server thread/INFO]: AndrewTR has made the advancement [Isn't It Iron Pick]
+[21:01:40] [Server thread/INFO]: Just_A_Pony was slain by Hajeekn
+[21:02:44] [Async Chat Thread - #10/INFO]: <Just_A_Pony> 右键采摘
+[21:02:47] [Async Chat Thread - #10/INFO]: <AndrewTR> 一堆好东西哈哈哈哈
+[21:02:54] [Async Chat Thread - #10/INFO]: <AndrewTR> 问题是我现在怎么回去
+[21:02:55] [Async Chat Thread - #10/INFO]: <Hajeekn> c
+[21:03:10] [Async Chat Thread - #10/INFO]: <Just_A_Pony> 我帮帮你（
+[21:03:17] [Async Chat Thread - #10/INFO]: <Just_A_Pony> kill AndrewTR
+[21:03:22] [Async Chat Thread - #10/INFO]: <AndrewTR> 草
+[21:03:24] [Async Chat Thread - #10/INFO]: <AndrewTR> 算了
+[21:03:37] [Async Chat Thread - #10/INFO]: <Hajeekn> Iris R键直接重载光影包r
+[21:03:52] [Server thread/INFO]: Just_A_Pony issued server command: /tp AndrewTR Just_A_Pony
+[21:03:52] [Server thread/INFO]: [Just_A_Pony: Teleported AndrewTR to Just_A_Pony]
+[21:03:57] [Async Chat Thread - #10/INFO]: <Hajeekn> 话说这个饱食度怎么掉的这么快
+[21:03:58] [Async Chat Thread - #10/INFO]: <AndrewTR> CAP
+[21:04:04] [Server thread/INFO]: AndrewTR hit the ground too hard
+[21:04:13] [Async Chat Thread - #10/INFO]: <Hajeekn> 洗个澡r
+[21:04:19] [Server thread/INFO]: Hajeekn lost connection: Disconnected
+[21:04:19] [Server thread/INFO]: Hajeekn left the game
+[21:04:27] [Async Chat Thread - #10/INFO]: <NokiaX3979> 我地图看这好像有个刷怪笼（
+[21:05:14] [Async Chat Thread - #10/INFO]: <jiangCHY4122> 所以这东西的作用是什么
+[21:05:15] [Async Chat Thread - #10/INFO]: <Just_A_Pony> 刷怪笼（？
+[21:05:23] [Async Chat Thread - #10/INFO]: <AndrewTR> pony?
+[21:05:28] [Async Chat Thread - #10/INFO]: <Just_A_Pony> 是时候增进服务器的生产力了（
+[21:05:34] [Async Chat Thread - #10/INFO]: <AndrewTR> 把我tp到诺基亚哪里罢
+[21:05:46] [Async Chat Thread - #10/INFO]: <NokiaX3979> 直接走过来（
+[21:05:54] [Async Chat Thread - #10/INFO]: <Just_A_Pony> （虽然现在服务器有没有刷怪笼都差不多
+[21:06:08] [Server thread/INFO]: wcy-littleskin was slain by Cave Spider
+[21:06:19] [Server thread/INFO]: Just_A_Pony issued server command: /kill AndrewTR
+[21:06:19] [Server thread/INFO]: AndrewTR fell out of the world
+[21:06:19] [Server thread/INFO]: [Just_A_Pony: Killed AndrewTR]
+[21:06:25] [Async Chat Thread - #10/INFO]: <NokiaX3979> ?
+[21:06:27] [Async Chat Thread - #10/INFO]: <AndrewTR> ?
+[21:07:52] [Async Chat Thread - #11/INFO]: <Just_A_Pony> 我们找个机会玩一把pvp（？
+[21:07:56] [Async Chat Thread - #11/INFO]: <AndrewTR> NEVER
+[21:08:00] [Async Chat Thread - #11/INFO]: <Just_A_Pony> az
+[21:08:02] [Async Chat Thread - #11/INFO]: <AndrewTR> 我pvp稀烂
+[21:08:07] [Async Chat Thread - #11/INFO]: <NokiaX3979> +!
+[21:08:15] [Async Chat Thread - #11/INFO]: <Just_A_Pony> 我也烂的很（）
+[21:08:25] [Async Chat Thread - #11/INFO]: <AndrewTR> 百变op
+[21:08:45] [Async Chat Thread - #11/INFO]: <Just_A_Pony> 我pvp的时候又不可能上op权限）（
+[21:08:57] [Async Chat Thread - #11/INFO]: <Just_A_Pony> 要不然我这pvp玩的有啥意义（）
+[21:09:47] [Craft Scheduler Thread - 82/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[21:09:47] [Craft Scheduler Thread - 82/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (7 change(s) queued)
+[21:09:47] [Server thread/INFO]: [Slimefun] 成功保存了 2 个玩家的数据!
+[21:10:07] [Async Chat Thread - #12/INFO]: <NokiaX3979> !
+[21:10:13] [Server thread/INFO]: Just_A_Pony issued server command: /give Just_A_Pony minecraft:glass
+[21:10:13] [Server thread/INFO]: [Just_A_Pony: Gave 1 [Glass] to Just_A_Pony]
+[21:11:45] [Server thread/INFO]: wcy-littleskin was blown up by Skeleton
+[21:11:52] [Server thread/INFO]: AndrewTR was blown up by Skeleton
+[21:11:52] [Server thread/INFO]: NokiaX3979 was blown up by Skeleton
+[21:11:59] [Async Chat Thread - #13/INFO]: <wcy-littleskin> 操你妈逼！
+[21:12:01] [Async Chat Thread - #13/INFO]: <AndrewTR> 怎么回事呢
+[21:12:06] [Async Chat Thread - #13/INFO]: <AndrewTR> 恼
+[21:12:08] [Async Chat Thread - #13/INFO]: <wcy-littleskin> 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+[21:13:02] [Async Chat Thread - #13/INFO]: <AndrewTR> 我i找到了金林檎
+[21:13:21] [Async Chat Thread - #13/INFO]: <NokiaX3979> 媒
+[21:14:07] [Async Chat Thread - #13/INFO]: <Just_A_Pony> 这个是测试机
+[21:14:16] [Async Chat Thread - #13/INFO]: <Just_A_Pony> 我用来做实验用的（）
+[21:14:21] [Async Chat Thread - #13/INFO]: <AndrewTR> 卖炭翁（×）
+[21:14:28] [Async Chat Thread - #13/INFO]: <AndrewTR> 煤老板（√）
+[21:14:37] [Async Chat Thread - #13/INFO]: <AndrewTR> 现在我拥有15个煤块了
+[21:14:45] [Async Chat Thread - #13/INFO]: <NokiaX3979> 给我点
+[21:14:51] [Async Chat Thread - #13/INFO]: <AndrewTR> 你来我这
+[21:14:51] [Async Chat Thread - #13/INFO]: <NokiaX3979> 没火把了（
+[21:15:07] [Async Chat Thread - #13/INFO]: <AndrewTR> 我去趟233家
+[21:15:08] [Server thread/INFO]: Just_A_Pony issued server command: /give Just_A_Pony minecraft:redstone 64
+[21:15:08] [Server thread/INFO]: [Just_A_Pony: Gave 64 [Redstone Dust] to Just_A_Pony]
+[21:16:01] [Async Chat Thread - #13/INFO]: <jiangCHY4122> 操
+[21:16:08] [Async Chat Thread - #13/INFO]: <NokiaX3979> 人呢
+[21:16:13] [Async Chat Thread - #13/INFO]: <NokiaX3979> 回去了？
+[21:16:15] [Async Chat Thread - #13/INFO]: <AndrewTR> 23家
+[21:16:24] [Server thread/WARN]: jiangCHY4122 moved too quickly! 0.7093526628030986,0.5764407054569602,10.114553777152196
+[21:16:38] [Server thread/INFO]: Just_A_Pony issued server command: /give Just_A_Pony minecraft:glass 2
+[21:16:38] [Server thread/INFO]: [Just_A_Pony: Gave 2 [Glass] to Just_A_Pony]
+[21:16:47] [Async Chat Thread - #13/INFO]: <wcy-littleskin> 修整去了
+[21:16:52] [Server thread/INFO]: NokiaX3979 went up in flames
+[21:17:02] [Async Chat Thread - #13/INFO]: <AndrewTR> 等我一会
+[21:17:10] [Async Chat Thread - #13/INFO]: <wcy-littleskin> 被某人一炸都寄了
+[21:17:37] [Async Chat Thread - #13/INFO]: <NokiaX3979> 吃的（
+[21:17:47] [Async Chat Thread - #13/INFO]: <wcy-littleskin> 来我这
+[21:18:13] [Async Chat Thread - #13/INFO]: <NokiaX3979> 右键（
+[21:18:24] [Async Chat Thread - #13/INFO]: <wcy-littleskin> 鲜榨金苹果
+[21:18:34] [Async Chat Thread - #13/INFO]: <AndrewTR> 金金金金金金金金金
+[21:18:57] [Async Chat Thread - #13/INFO]: <jiangCHY4122> 我觉得我可以重进游戏试试
+[21:18:58] [Server thread/INFO]: jiangCHY4122 lost connection: Disconnected
+[21:18:58] [Server thread/INFO]: jiangCHY4122 left the game
+[21:18:59] [User Authenticator #7/INFO]: UUID of player jiangCHY4122 is 96f9fc63-25d8-3456-a1d1-ceda1bcd1beb
+[21:18:59] [Server thread/INFO]: jiangCHY4122 joined the game
+[21:18:59] [Server thread/INFO]: jiangCHY4122[/127.0.0.1:53116] logged in with entity id 17860 at ([SlimeWorld]-691.418080148458, 68.9375, 2056.847496049166)
+[21:19:13] [Async Chat Thread - #13/INFO]: <jiangCHY4122> TMD我知道了
+[21:19:23] [Async Chat Thread - #13/INFO]: <jiangCHY4122> 这玩意根本没下
+[21:19:35] [Async Chat Thread - #13/INFO]: <wcy-littleskin> what?
+[21:19:47] [Server thread/INFO]: [Slimefun] 成功保存了 1 个玩家的数据!
+[21:19:56] [Async Chat Thread - #13/INFO]: <jiangCHY4122> 话说可不可以把文件丢到某个文件里
+[21:20:00] [Async Chat Thread - #13/INFO]: <wcy-littleskin> 我休整完了
+[21:20:14] [User Authenticator #8/INFO]: UUID of player Hajeekn is 41545ac2-273c-3304-87b9-ba8ee002961a
+[21:20:14] [Server thread/INFO]: Hajeekn joined the game
+[21:20:14] [Server thread/INFO]: Hajeekn[/[2409:8a4c:ba26:d140:9e9d:7eff:feb5:ea65%0]:5597] logged in with entity id 18496 at ([SlimeWorld]-736.3000000119209, 72.0, 2105.3751633091406)
+[21:20:15] [Async Chat Thread - #13/INFO]: <AndrewTR> 我在233家炼钢
+[21:20:19] [Async Chat Thread - #13/INFO]: <jiangCHY4122> （指下载好的文件放到某文件夹
+[21:20:20] [Server thread/INFO]: Just_A_Pony issued server command: /gamemode creative Just_A_Pony
+[21:20:20] [Server thread/INFO]: [Just_A_Pony: Set own game mode to Creative Mode]
+[21:20:22] [Async Chat Thread - #13/INFO]: <wcy-littleskin> 算了先睡觉
+[21:20:24] [Async Chat Thread - #13/INFO]: <NokiaX3979> 233家在哪（
+[21:20:33] [Server thread/INFO]: Hajeekn was shot by Skeleton
+[21:20:37] [Async Chat Thread - #13/INFO]: <AndrewTR> 114514
+[21:20:42] [Async Chat Thread - #13/INFO]: <AndrewTR> 去地狱
+[21:20:42] [Async Chat Thread - #13/INFO]: <wcy-littleskin> 去下界（
+[21:20:50] [Async Chat Thread - #13/INFO]: <AndrewTR> 有指示
+[21:21:02] [Server thread/INFO]: Just_A_Pony issued server command: /gamemode survival Just_A_Pony
+[21:21:02] [Server thread/INFO]: [Just_A_Pony: Set own game mode to Survival Mode]
+[21:21:27] [Async Chat Thread - #13/INFO]: <AndrewTR> 润
+[21:22:16] [Async Chat Thread - #13/INFO]: <wcy-littleskin> emmm
+[21:22:17] [Server thread/INFO]: jiangCHY4122 lost connection: Disconnected
+[21:22:17] [Server thread/INFO]: jiangCHY4122 left the game
+[21:22:25] [Async Chat Thread - #13/INFO]: <wcy-littleskin> 人呢
+[21:23:04] [Async Chat Thread - #13/INFO]: <AndrewTR> arrived
+[21:23:21] [Async Chat Thread - #13/INFO]: <NokiaX3979> kkkkkkk
+[21:23:23] [Async Chat Thread - #13/INFO]: <AndrewTR> 自己合成去
+[21:24:47] [Async Chat Thread - #14/INFO]: <wcy-littleskin> 我超
+[21:24:56] [Async Chat Thread - #14/INFO]: <wcy-littleskin> 人呢
+[21:26:51] [Async Chat Thread - #15/INFO]: <NokiaX3979> 我换个设备（指pojavlauncher
+[21:26:53] [Server thread/INFO]: NokiaX3979 lost connection: Disconnected
+[21:26:53] [Server thread/INFO]: NokiaX3979 left the game
+[21:27:31] [Async Chat Thread - #15/INFO]: <AndrewTR> 卖瓜
+[21:27:46] [Server thread/INFO]: Just_A_Pony lost connection: Disconnected
+[21:27:46] [Server thread/INFO]: Just_A_Pony left the game
+[21:27:59] [Async Chat Thread - #15/INFO]: <AndrewTR> 去趟村子
+[21:28:25] [User Authenticator #9/INFO]: UUID of player NokiaX3979 is 94985268-409c-3344-bdea-b02892fb0325
+[21:28:25] [Server thread/INFO]: NokiaX3979 joined the game
+[21:28:25] [Server thread/INFO]: NokiaX3979[/127.0.0.1:35194] logged in with entity id 21820 at ([SlimeWorld]-272.69999998807907, 64.0, 2074.542875500129)
+[21:29:26] [Async Chat Thread - #16/INFO]: <wcy-littleskin> 操苦力怕再炸我一次我就开大纪
+[21:29:33] [Async Chat Thread - #16/INFO]: <AndrewTR> 我超
+[21:29:36] [Async Chat Thread - #16/INFO]: <AndrewTR> vapu
+[21:29:45] [Async Chat Thread - #16/INFO]: <AndrewTR> 您是guiwow吗
+[21:29:47] [Craft Scheduler Thread - 123/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[21:29:47] [Craft Scheduler Thread - 123/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (7 change(s) queued)
+[21:29:47] [Server thread/INFO]: [Slimefun] 成功保存了 2 个玩家的数据!
+[21:30:05] [Async Chat Thread - #16/INFO]: <wcy-littleskin> 其实我没挂（
+[21:30:27] [Async Chat Thread - #16/INFO]: <wcy-littleskin> 并且反感开挂的傻逼
+[21:30:34] [Server thread/INFO]: AndrewTR was blown up by Creeper
+[21:30:35] [Async Chat Thread - #16/INFO]: <Hajeekn> github 有开源的(
+[21:30:40] [Async Chat Thread - #16/INFO]: <wcy-littleskin> cao
+[21:30:45] [Async Chat Thread - #16/INFO]: <AndrewTR> 炸船
+[21:30:49] [Async Chat Thread - #16/INFO]: <Hajeekn> w开头的挂
+[21:30:56] [Async Chat Thread - #16/INFO]: <Hajeekn> 源码都直接放出来了
+[21:31:48] [Server thread/INFO]: Hajeekn has made the advancement [Stone Age]
+[21:32:00] [Async Chat Thread - #17/INFO]: <AndrewTR> 睡觉
+[21:32:17] [Async Chat Thread - #17/INFO]: <wcy-littleskin> 擦我在矿洞锂
+[21:32:20] [Async Chat Thread - #17/INFO]: <AndrewTR> 草
+[21:32:41] [Async Chat Thread - #17/INFO]: <wcy-littleskin> ponykill下我
+[21:32:49] [Async Chat Thread - #17/INFO]: <AndrewTR> 我去村子里
+[21:32:52] [Async Chat Thread - #17/INFO]: <Hajeekn> creeper!
+[21:33:02] [Async Chat Thread - #17/INFO]: <AndrewTR> nm
+[21:33:04] [Async Chat Thread - #17/INFO]: <Hajeekn> no
+[21:33:11] [Async Chat Thread - #17/INFO]: <AndrewTR> 早知道带上末影珍珠了
+[21:33:27] [Server thread/INFO]: Hajeekn was impaled by Drowned
+[21:33:36] [Async Chat Thread - #17/INFO]: <Hajeekn> （
+[21:33:55] [Server thread/INFO]: Hajeekn issued server command: /teammsg what
+[21:34:02] [Async Chat Thread - #17/INFO]: <AndrewTR> 九死一生来到了存在
+[21:34:02] [Server thread/INFO]: Hajeekn issued server command: /tm aa
+[21:34:04] [Server thread/INFO]: wcy-littleskin went up in flames
+[21:34:16] [Async Chat Thread - #17/INFO]: <wcy-littleskin> sleep!
+[21:34:22] [Async Chat Thread - #17/INFO]: <AndrewTR> nm我刚到存在
+[21:34:42] [Async Chat Thread - #17/INFO]: <NokiaX3979> 给村庄也放个创l
+[21:34:52] [Async Chat Thread - #17/INFO]: <AndrewTR> 这外面是咋了
+[21:35:01] [Async Chat Thread - #17/INFO]: <NokiaX3979> 很久之前炸的
+[21:35:08] [Async Chat Thread - #17/INFO]: <wcy-littleskin> sleep
+[21:35:16] [Async Chat Thread - #17/INFO]: <AndrewTR> 好回家
+[21:35:31] [Async Chat Thread - #17/INFO]: <wcy-littleskin> 在我这也行（
+[21:35:36] [Server thread/INFO]: AndrewTR fell from a high place
+[21:35:40] [Async Chat Thread - #17/INFO]: <NokiaX3979> 直接做个床）
+[21:36:35] [Async Chat Thread - #17/INFO]: <wcy-littleskin> i has three bed(
+[21:36:49] [Server thread/INFO]: AndrewTR was shot by Skeleton
+[21:37:07] [Server thread/INFO]: Hajeekn was shot by Skeleton
+[21:38:21] [Server thread/INFO]: Hajeekn was slain by Zombie
+[21:38:29] [Async Chat Thread - #18/INFO]: <Hajeekn> 啊啊啊啊啊啊啊啊
+[21:38:44] [Server thread/INFO]: Hajeekn lost connection: Disconnected
+[21:38:44] [Server thread/INFO]: Hajeekn left the game
+[21:39:26] [Async Chat Thread - #18/INFO]: <NokiaX3979> hmmm
+[21:39:47] [Craft Scheduler Thread - 142/INFO]: [Slimefun] 正在自动保存方块数据... (下一次保存在 10 分钟后)
+[21:39:47] [Craft Scheduler Thread - 142/INFO]: [Slimefun] Saving block data for world "SlimeWorld" (1 change(s) queued)
+[21:39:47] [Server thread/INFO]: [Slimefun] 成功保存了 2 个玩家的数据!

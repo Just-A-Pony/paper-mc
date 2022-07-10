@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-07-10 19:37:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-06-09 15:37:21 +0800"
@@ -230,6 +236,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2022-06-13 19:31:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-07-10 19:55:25 +0800"
     },
     "done": true
   },
@@ -1523,6 +1535,7 @@
       "apple": "2022-06-14 18:25:34 +0800",
       "bread": "2022-06-09 15:37:37 +0800",
       "rotten_flesh": "2022-06-09 15:07:28 +0800",
+      "dried_kelp": "2022-07-10 18:57:51 +0800",
       "melon_slice": "2022-06-09 15:36:08 +0800",
       "cooked_chicken": "2022-06-14 19:57:01 +0800",
       "carrot": "2022-06-15 17:57:59 +0800"

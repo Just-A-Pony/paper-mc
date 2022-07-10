@@ -565,16 +565,51 @@ backpacks:
         v: 2586
         type: SAND
         amount: 64
-      '3':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: IRON_INGOT
-        amount: 4
       '4':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
         type: COAL
         amount: 11
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: CHICKEN
+        amount: 6
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: STONE_PICKAXE
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: RAIL
+        amount: 60
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: BIRCH_SLAB
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: ARROW
+        amount: 3
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_LOG
+        amount: 16
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_FENCE
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: STONE_PICKAXE
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: STONE_PICKAXE
   '2':
     size: 36
     contents: {}
