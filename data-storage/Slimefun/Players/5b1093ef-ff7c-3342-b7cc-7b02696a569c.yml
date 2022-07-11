@@ -593,11 +593,6 @@ backpacks:
         v: 2586
         type: ARROW
         amount: 3
-      '30':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: OAK_LOG
-        amount: 16
       '31':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
@@ -610,6 +605,11 @@ backpacks:
         ==: org.bukkit.inventory.ItemStack
         v: 2586
         type: STONE_PICKAXE
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_LOG
+        amount: 15
   '2':
     size: 36
     contents: {}

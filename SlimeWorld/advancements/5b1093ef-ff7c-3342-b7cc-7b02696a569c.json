@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2022-06-10 15:25:50 +0800"
@@ -587,9 +593,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2022-06-12 13:37:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2022-07-11 18:17:02 +0800"
     },
     "done": true
   },
@@ -677,9 +695,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2022-06-10 15:24:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2022-07-11 18:48:07 +0800"
     },
     "done": true
   },
@@ -824,6 +854,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-06-14 10:16:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-07-11 18:17:02 +0800"
     },
     "done": true
   },
@@ -986,6 +1022,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2022-06-12 13:37:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2022-07-11 12:39:58 +0800"
     },
     "done": true
   },
@@ -1193,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2022-06-10 16:47:15 +0800"
@@ -1255,6 +1303,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2022-06-12 09:48:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
     },
     "done": true
   },
@@ -1506,6 +1560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2022-06-12 09:46:52 +0800"
@@ -1686,6 +1746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-07-07 20:35:12 +0800"
@@ -1808,6 +1874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-07-11 18:17:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2022-06-12 13:52:26 +0800"
@@ -1817,6 +1889,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-06-10 15:25:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2022-07-11 18:17:02 +0800"
     },
     "done": true
   },
@@ -1847,6 +1925,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-06-17 17:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
     },
     "done": true
   },
@@ -1976,9 +2060,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:panda": "2022-07-11 13:01:40 +0800"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-06-11 17:09:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
     },
     "done": true
   },
@@ -2138,6 +2234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2022-06-13 19:04:59 +0800"
@@ -2159,6 +2261,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2022-06-11 15:21:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
     },
     "done": true
   },
@@ -2231,6 +2339,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2022-06-17 13:26:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
     },
     "done": true
   },
@@ -2369,6 +2483,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-06-17 17:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
     },
     "done": true
   },
@@ -2612,6 +2732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2022-07-11 18:17:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2022-06-11 17:09:23 +0800"
@@ -2723,6 +2849,12 @@
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2022-06-17 17:10:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2022-07-11 18:17:02 +0800"
     },
     "done": true
   },
@@ -2882,6 +3014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2022-07-11 18:17:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2022-06-17 14:43:47 +0800"
@@ -2936,6 +3074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2022-07-11 18:17:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
     "criteria": {
       "has_cut_red_sandstone": "2022-07-09 18:31:51 +0800"
@@ -2954,6 +3098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2022-06-17 14:43:47 +0800"
@@ -2963,6 +3113,18 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2022-06-14 10:16:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-07-11 13:01:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-07-11 18:17:02 +0800"
     },
     "done": true
   },
@@ -3083,6 +3245,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-20 16:34:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-07-11 12:46:08 +0800"
     },
     "done": true
   },

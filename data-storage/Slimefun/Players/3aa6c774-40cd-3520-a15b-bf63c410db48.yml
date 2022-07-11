@@ -71,635 +71,48 @@ researches:
   '143': true
   '56': true
   '29': true
+  '95': true
+  '98': true
+  '164': true
+  '165': true
+  '149': true
+  '254': true
+  '94': true
+  '240': true
+  '32': true
+  '251': true
+  '25': true
+  '57': true
+  '77': true
+  '90': true
+  '91': true
+  '126': true
+  '265': true
+  '118': true
+  '124': true
+  '104': true
+  '73': true
+  '237': true
+  '235': true
+  '215': true
+  '202': true
+  '253': true
+  '84': true
+  '13': true
+  '12': true
+  '2': true
+  '177': true
+  '186': true
+  '173': true
 backpacks:
   '0':
     size: 54
     contents:
-      '0':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: ANDESITE
-        amount: 3
-      '1':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: OAK_PLANKS
-      '2':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: ACACIA_PLANKS
-        amount: 5
       '3':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
-        type: GOLD_ORE
-        amount: 6
-      '5':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: TNT
-      '6':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: CHEST
-      '12':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: FLINT
-      '13':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: MINECART
-      '9':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: IRON_INGOT
-        amount: 3
-      '11':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: LEATHER_CHESTPLATE
-        meta:
-          ==: ItemMeta
-          meta-type: LEATHER_ARMOR
-          Damage: 7
-      '14':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: REDSTONE
-        amount: 8
-      '19':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"柠檬汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: LEMON_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 0
-            GREEN: 255
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '20':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"樱桃汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: CHERRY_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '23':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"樱桃汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: CHERRY_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '24':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"樱桃汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: CHERRY_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '28':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '33':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '15':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
         type: OAK_BOAT
-      '18':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: PUMPKIN_SEEDS
-        amount: 4
-      '29':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '30':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '31':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '32':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
       '7':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: LEVER
-      '8':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: COAL
-        amount: 33
-      '16':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: FISHING_ROD
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          Damage: 24
-      '17':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: LAPIS_LAZULI
-        amount: 4
-      '25':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '26':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '34':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '35':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '37':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '38':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '39':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '40':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '41':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '42':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '43':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
         type: POTION
@@ -723,137 +136,35 @@ backpacks:
             ambient: true
             has-particles: true
             has-icon: true
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"金苹果汁"}],"text":""}'
+          custom-model-data: 2200289
+          PublicBukkitValues:
+            slimefun:slimefun_item: GOLDEN_APPLE_JUICE
+          custom-color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 255
+          custom-effects:
+          - ==: PotionEffect
+            effect: 22
+            duration: 400
+            amplifier: 0
+            ambient: true
+            has-particles: true
+            has-icon: true
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: MINECART
       '10':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: STONE_PICKAXE
-      '21':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"樱桃汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: CHERRY_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '22':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"樱桃汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: CHERRY_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '27':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '36':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: POTION
-        meta:
-          ==: ItemMeta
-          meta-type: POTION
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"橡树苹果汁"}],"text":""}'
-          lore:
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"恢复
-            "},{"italic":true,"color":"aqua","text":"3.0 "},{"italic":true,"color":"gray","text":"点饥饿值"}],"text":""}'
-          PublicBukkitValues:
-            slimefun:slimefun_item: OAK_APPLE_JUICE
-          custom-color:
-            ==: Color
-            RED: 255
-            BLUE: 255
-            GREEN: 0
-          custom-effects:
-          - ==: PotionEffect
-            effect: 23
-            duration: 6
-            amplifier: 0
-            ambient: true
-            has-particles: true
-            has-icon: true
-      '44':
-        ==: org.bukkit.inventory.ItemStack
-        v: 2586
-        type: PLAYER_HEAD
-        meta:
-          ==: ItemMeta
-          meta-type: SKULL
-          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"便携垃圾箱"}],"text":""}'
-          lore:
-          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"轻松的消除多余的物品"}],"text":""}'
-          - '{"text":""}'
-          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"右键"},{"italic":false,"color":"gray","text":"
-            打开"}],"text":""}'
-          custom-model-data: 2200018
-          internal: H4sIAAAAAAAA/03PTU6DQBwF8L+mTRA9iiZQBNNFTQyoHcIMpVAos4N2Kh8DbSjUwgncuzRx5c6l3sYDeA1Zunp5+b3NEwFEuHDzhvNZtd2knAkwIFHBQNTdK31bMSuNRRB73LGqTtn+DISaHeumYnsRAE4EGPoRbxh8s9aU6DKR1kuTr1qk9d1zJW6jbHeDSr+NdaShovfpnWa1439btY4ClYeKmdDSaeLClyxlztl0Lq+KxQF3Zk6M+2dimBn1chV7jhKOcGc/kiTsOCdGqPQuk45yMvI56fIjzp466tEiDPA1NXBre2YWBos+sUyzhwKV8njjTCYA53CK1v2RgRG9vV6+aD8fv8P3r9vZJ8AfsPUGpx0BAAA=
-          PublicBukkitValues:
-            slimefun:slimefun_item: PORTABLE_DUSTBIN
-          skull-owner: CS-CoreLib
-      '45':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
         type: PLAYER_HEAD
@@ -871,11 +182,308 @@ backpacks:
           PublicBukkitValues:
             slimefun:slimefun_item: PORTABLE_CRAFTER
           skull-owner: CS-CoreLib
-      '46':
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: COBBLESTONE
+        amount: 49
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"爆炸稿"}],"text":""}'
+          lore:
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"允许你在一瞬间挖掘矿物"}],"text":""}'
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"在挖矿时有时运效果"}],"text":""}'
+          custom-model-data: 2200241
+          enchants:
+            DURABILITY: 1
+          Damage: 1290
+          PublicBukkitValues:
+            slimefun:slimefun_item: EXPLOSIVE_PICKAXE
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: FISHING_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 24
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: SHEARS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 1
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"便携垃圾箱"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"轻松的消除多余的物品"}],"text":""}'
+          - '{"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"右键"},{"italic":false,"color":"gray","text":"
+            打开"}],"text":""}'
+          custom-model-data: 2200018
+          internal: H4sIAAAAAAAA/03PTU6DQBwF8L+mTRA9iiZQBNNFTQyoHcIMpVAos4N2Kh8DbSjUwgncuzRx5c6l3sYDeA1Zunp5+b3NEwFEuHDzhvNZtd2knAkwIFHBQNTdK31bMSuNRRB73LGqTtn+DISaHeumYnsRAE4EGPoRbxh8s9aU6DKR1kuTr1qk9d1zJW6jbHeDSr+NdaShovfpnWa1439btY4ClYeKmdDSaeLClyxlztl0Lq+KxQF3Zk6M+2dimBn1chV7jhKOcGc/kiTsOCdGqPQuk45yMvI56fIjzp466tEiDPA1NXBre2YWBos+sUyzhwKV8njjTCYA53CK1v2RgRG9vV6+aD8fv8P3r9vZJ8AfsPUGpx0BAAA=
+          PublicBukkitValues:
+            slimefun:slimefun_item: PORTABLE_DUSTBIN
+          skull-owner: CS-CoreLib
+      '11':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
         type: NAME_TAG
-      '47':
+      '12':
         ==: org.bukkit.inventory.ItemStack
         v: 2586
         type: HEART_OF_THE_SEA
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: SEAGRASS
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: BUCKET
+        amount: 2
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子树苗"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR_SAPLING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子树苗"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR_SAPLING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PTU6DQBjG8VdTk4qeQeMBTIYimCa6UOgHhA9LETqzo3RaZphpGwqNuHPhFUy8gBu3Hsi9dzCydPnk92z+CoACp9OiFuKh3CyZoF3o+KmkoJjTS3NTUpfNFVBa3NKyYnR3DN2KPlV1SXcKABx04ShORU3hizYOIrMcLWaOyBrbaHc0RSKw+fbaXsfN3LQNW7Y+vjPcpv/vq1dpogusOTlZT+q5jJGrhYKOQzWTj3tPhsLjeUH4CvlW0fOSwRVJ/DwYxRLzTCeJw/zRUHjRPQssD+FnjHCEe4E1UEmUM59PVJzEkvBMDayV7vPWmdNfztAtwAkc2os2pHPxdvZ9fqO9vnz8Dj/7P+8Af7LxnjUdAQAA
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR
+          skull-owner: CS-CoreLib
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子树苗"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR_SAPLING
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子树苗"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR_SAPLING
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子树苗"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR_SAPLING
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: STICK
+        amount: 18
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: SPRUCE_LOG
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: SPRUCE_LOG
+        amount: 52
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PTU6DQBjG8VdTk4qeQeMBTIYimCa6UOgHhA9LETqzo3RaZphpGwqNuHPhFUy8gBu3Hsi9dzCydPnk92z+CoACp9OiFuKh3CyZoF3o+KmkoJjTS3NTUpfNFVBa3NKyYnR3DN2KPlV1SXcKABx04ShORU3hizYOIrMcLWaOyBrbaHc0RSKw+fbaXsfN3LQNW7Y+vjPcpv/vq1dpogusOTlZT+q5jJGrhYKOQzWTj3tPhsLjeUH4CvlW0fOSwRVJ/DwYxRLzTCeJw/zRUHjRPQssD+FnjHCEe4E1UEmUM59PVJzEkvBMDayV7vPWmdNfztAtwAkc2os2pHPxdvZ9fqO9vnz8Dj/7P+8Af7LxnjUdAQAA
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR
+          skull-owner: CS-CoreLib
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PTU6DQBjG8VdTk4qeQeMBTIYimCa6UOgHhA9LETqzo3RaZphpGwqNuHPhFUy8gBu3Hsi9dzCydPnk92z+CoACp9OiFuKh3CyZoF3o+KmkoJjTS3NTUpfNFVBa3NKyYnR3DN2KPlV1SXcKABx04ShORU3hizYOIrMcLWaOyBrbaHc0RSKw+fbaXsfN3LQNW7Y+vjPcpv/vq1dpogusOTlZT+q5jJGrhYKOQzWTj3tPhsLjeUH4CvlW0fOSwRVJ/DwYxRLzTCeJw/zRUHjRPQssD+FnjHCEe4E1UEmUM59PVJzEkvBMDayV7vPWmdNfztAtwAkc2os2pHPxdvZ9fqO9vnz8Dj/7P+8Af7LxnjUdAQAA
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR
+          skull-owner: CS-CoreLib
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PTU6DQBjG8VdTk4qeQeMBTIYimCa6UOgHhA9LETqzo3RaZphpGwqNuHPhFUy8gBu3Hsi9dzCydPnk92z+CoACp9OiFuKh3CyZoF3o+KmkoJjTS3NTUpfNFVBa3NKyYnR3DN2KPlV1SXcKABx04ShORU3hizYOIrMcLWaOyBrbaHc0RSKw+fbaXsfN3LQNW7Y+vjPcpv/vq1dpogusOTlZT+q5jJGrhYKOQzWTj3tPhsLjeUH4CvlW0fOSwRVJ/DwYxRLzTCeJw/zRUHjRPQssD+FnjHCEe4E1UEmUM59PVJzEkvBMDayV7vPWmdNfztAtwAkc2os2pHPxdvZ9fqO9vnz8Dj/7P+8Af7LxnjUdAQAA
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR
+          skull-owner: CS-CoreLib
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子树苗"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR_SAPLING
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: WHEAT_SEEDS
+        amount: 8
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子树苗"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR_SAPLING
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子树苗"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR_SAPLING
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PTU6DQBjG8VdTk4qeQeMBTIYimCa6UOgHhA9LETqzo3RaZphpGwqNuHPhFUy8gBu3Hsi9dzCydPnk92z+CoACp9OiFuKh3CyZoF3o+KmkoJjTS3NTUpfNFVBa3NKyYnR3DN2KPlV1SXcKABx04ShORU3hizYOIrMcLWaOyBrbaHc0RSKw+fbaXsfN3LQNW7Y+vjPcpv/vq1dpogusOTlZT+q5jJGrhYKOQzWTj3tPhsLjeUH4CvlW0fOSwRVJ/DwYxRLzTCeJw/zRUHjRPQssD+FnjHCEe4E1UEmUM59PVJzEkvBMDayV7vPWmdNfztAtwAkc2os2pHPxdvZ9fqO9vnz8Dj/7P+8Af7LxnjUdAQAA
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR
+          skull-owner: CS-CoreLib
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子树苗"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR_SAPLING
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PTU6DQBjG8VdTk4qeQeMBTIYimCa6UOgHhA9LETqzo3RaZphpGwqNuHPhFUy8gBu3Hsi9dzCydPnk92z+CoACp9OiFuKh3CyZoF3o+KmkoJjTS3NTUpfNFVBa3NKyYnR3DN2KPlV1SXcKABx04ShORU3hizYOIrMcLWaOyBrbaHc0RSKw+fbaXsfN3LQNW7Y+vjPcpv/vq1dpogusOTlZT+q5jJGrhYKOQzWTj3tPhsLjeUH4CvlW0fOSwRVJ/DwYxRLzTCeJw/zRUHjRPQssD+FnjHCEe4E1UEmUM59PVJzEkvBMDayV7vPWmdNfztAtwAkc2os2pHPxdvZ9fqO9vnz8Dj/7P+8Af7LxnjUdAQAA
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR
+          skull-owner: CS-CoreLib
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: OAK_SAPLING
+        amount: 34
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子树苗"}],"text":""}'
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR_SAPLING
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: BIRCH_SAPLING
+        amount: 37
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: PLAYER_HEAD
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"梨子"}],"text":""}'
+          internal: H4sIAAAAAAAA/03PTU6DQBjG8VdTk4qeQeMBTIYimCa6UOgHhA9LETqzo3RaZphpGwqNuHPhFUy8gBu3Hsi9dzCydPnk92z+CoACp9OiFuKh3CyZoF3o+KmkoJjTS3NTUpfNFVBa3NKyYnR3DN2KPlV1SXcKABx04ShORU3hizYOIrMcLWaOyBrbaHc0RSKw+fbaXsfN3LQNW7Y+vjPcpv/vq1dpogusOTlZT+q5jJGrhYKOQzWTj3tPhsLjeUH4CvlW0fOSwRVJ/DwYxRLzTCeJw/zRUHjRPQssD+FnjHCEe4E1UEmUM59PVJzEkvBMDayV7vPWmdNfztAtwAkc2os2pHPxdvZ9fqO9vnz8Dj/7P+8Af7LxnjUdAQAA
+          PublicBukkitValues:
+            slimefun:slimefun_item: PEAR
+          skull-owner: CS-CoreLib

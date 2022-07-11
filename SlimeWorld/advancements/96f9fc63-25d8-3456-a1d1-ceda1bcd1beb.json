@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2022-07-11 09:20:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-06-10 16:47:55 +0800"
@@ -242,6 +248,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-06-18 08:43:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2022-07-11 09:20:17 +0800"
     },
     "done": true
   },
@@ -1212,6 +1224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2022-07-11 09:20:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-06-10 17:26:41 +0800"
@@ -1565,6 +1583,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2022-06-13 14:32:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2022-07-11 09:20:17 +0800"
     },
     "done": true
   },
@@ -2799,6 +2823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2022-07-11 09:20:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-06-10 21:04:47 +0800"
@@ -2910,6 +2940,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2022-07-07 15:01:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2022-07-11 09:20:17 +0800"
     },
     "done": true
   },
