@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-07-12 16:48:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-06-10 16:14:13 +0800"
@@ -224,6 +230,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2022-06-10 17:09:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2022-07-12 11:50:58 +0800"
     },
     "done": true
   },
@@ -1398,6 +1410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-07-12 09:36:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2022-06-16 15:15:01 +0800",
@@ -1712,6 +1730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2022-07-16 13:57:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-06-15 15:44:56 +0800"
@@ -1748,6 +1772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2022-07-12 12:22:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2022-07-08 15:37:42 +0800",
@@ -1758,11 +1788,14 @@
       "pufferfish": "2022-06-15 13:42:11 +0800",
       "bread": "2022-06-10 16:32:46 +0800",
       "rotten_flesh": "2022-06-11 12:37:58 +0800",
+      "suspicious_stew": "2022-07-12 09:40:12 +0800",
       "salmon": "2022-06-15 13:42:25 +0800",
       "dried_kelp": "2022-06-15 14:01:41 +0800",
       "melon_slice": "2022-06-10 16:47:37 +0800",
+      "beetroot": "2022-07-16 13:57:25 +0800",
       "cooked_chicken": "2022-07-08 21:20:22 +0800",
       "cod": "2022-06-15 13:42:31 +0800",
+      "rabbit_stew": "2022-07-15 09:19:43 +0800",
       "carrot": "2022-06-20 17:03:04 +0800"
     },
     "done": false
@@ -1961,6 +1994,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2022-07-12 12:20:32 +0800",
+      "minecraft:cow": "2022-07-12 12:21:38 +0800",
       "minecraft:chicken": "2022-06-28 21:08:37 +0800"
     },
     "done": false
@@ -2004,6 +2039,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2022-06-15 15:22:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2022-07-16 13:57:13 +0800"
     },
     "done": true
   },
@@ -2361,6 +2402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-07-12 12:22:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-06-17 16:56:41 +0800"
@@ -2412,6 +2459,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2022-06-17 16:17:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-07-12 09:36:02 +0800"
     },
     "done": true
   },
@@ -2826,6 +2879,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2022-07-11 09:20:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2022-07-12 11:50:58 +0800"
     },
     "done": true
   },
